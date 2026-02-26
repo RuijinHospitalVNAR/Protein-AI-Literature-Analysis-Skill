@@ -319,7 +319,7 @@ function populateFilters() {
     categories.forEach(category => {
         const option = document.createElement('option');
         option.value = category;
-        option.textContent = category;
+        option.textContent = `${category} (${analyzedData.category_counts[category]})`;
         categoryFilter.appendChild(option);
     });
 
@@ -328,8 +328,24 @@ function populateFilters() {
     categories.forEach(category => {
         const option = document.createElement('option');
         option.value = category;
-        option.textContent = category;
+        option.textContent = `${category} (${analyzedData.category_counts[category]})`;
         timelineCategoryFilter.appendChild(option);
+    });
+
+    // Calculate source counts
+    const sourceCounts = {};
+    papersData.forEach(paper => {
+        const source = paper.source;
+        sourceCounts[source] = (sourceCounts[source] || 0) + 1;
+    });
+
+    // Populate source filter
+    sourceFilter.innerHTML = '<option value="all">All Sources</option>';
+    Object.keys(sourceCounts).forEach(source => {
+        const option = document.createElement('option');
+        option.value = source;
+        option.textContent = `${source} (${sourceCounts[source]})`;
+        sourceFilter.appendChild(option);
     });
 
     // Set current date for timeline filter

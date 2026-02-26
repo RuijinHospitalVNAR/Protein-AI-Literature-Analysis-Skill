@@ -1,0 +1,36 @@
+name: Update Literature Data
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Run weekly on Sunday at midnight
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  update-literature:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml
+
+      - name: Update literature data
+        run: |
+          python scripts/literature_retriever.py --timeframe 1month --output web/data/papers.json
+          python scripts/paper_analyzer.py --input web/data/papers.json --output web/data/analyzed.json
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add web/data/
+          git diff --staged --quiet || git commit -m 'Update literature data'
+          git push

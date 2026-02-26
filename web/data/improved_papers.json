@@ -1,0 +1,1975 @@
+[
+  {
+    "title": "Artificial intelligence-driven computational methods for antibody design and optimization.",
+    "authors": [
+      "Vecchietti LF",
+      "Wijaya BN",
+      "Armanuly A",
+      "Hangeldiyev B",
+      "Jung H",
+      "Lee S",
+      "Cha M",
+      "Kim HM"
+    ],
+    "journal": "mAbs",
+    "publication_date": "2025-Dec",
+    "abstract": "Antibodies play a crucial role in our immune system. Their ability to bind to and neutralize pathogens opens opportunities to develop antibodies for therapeutic and diagnostic use. Computational methods capable of designing antibodies for a target antigen can revolutionize drug discovery, reducing the time and cost required for drug development. Artificial intelligence (AI) methods have recently achieved remarkable advancements in the design of protein sequences and structures, including the ability to generate scaffolds for a given motif and binders for a specific target. These generative methods have been applied to antigen-conditioned antibody design, with experimental binding confirmed for de novo-designed antibodies. This review surveys current AI methods used in antibody development, focusing on those for antigen-conditioned antibody design. The results obtained by AI-based methodologies in antibody and protein research suggest a promising direction for generating de novo binders for various target antigens.",
+    "doi": "10.1080/19420862.2025.2528902",
+    "url": "https://doi.org/10.1080/19420862.2025.2528902",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "De novo designed voltage-gated anion channels suppress neuron firing.",
+    "authors": [
+      "Zhou C",
+      "Li H",
+      "Wang J",
+      "Qian C",
+      "Xiong H",
+      "Chu Z",
+      "Shao Q",
+      "Li X",
+      "Sun S",
+      "Sun K",
+      "Zhu A",
+      "Wang J",
+      "Jin X",
+      "Yang F",
+      "Gamal El-Din TM",
+      "Li B",
+      "Huang J",
+      "Wu K",
+      "Lu P"
+    ],
+    "journal": "Cell",
+    "publication_date": "2025-Dec-24",
+    "abstract": "Design of ion channels responsive to environmental cues has significant implications in modulating cellular activities and sensor development, but it remains a significant challenge due to the complexities involved in designing stimuli-induced conformational changes in proteins. Here, we report the accurate de novo design of voltage-gated anion channels, namely dVGACs. dVGACs adopt a 15-helix pentameric architecture featuring arginine constrictions within the transmembrane span and show voltage-dependent anions currents in patch-clamp experiments. Cryo-electron microscopy (cryo-EM) structures of dVGACs closely align with the design models. Cryo-EM structures and molecular dynamics simulations suggest that the arginine constrictions undergo voltage-induced conformational changes, serving as both a voltage sensor and a selectivity filter as designed. Notably, the anion selectivity and voltage sensitivity of dVGACs can be tuned through targeted mutations for suppressing neuronal firing in situ. The ability to create ion channels with custom-designed conformational changes refreshes our insights into membrane biophysics and unveils diverse potential applications.",
+    "doi": "10.1016/j.cell.2025.09.023",
+    "url": "https://doi.org/10.1016/j.cell.2025.09.023",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "AlphaBind, a domain-specific model to predict and optimize antibody-antigen binding affinity.",
+    "authors": [
+      "Agarwal AA",
+      "Harrang J",
+      "Noble D",
+      "McGowan KL",
+      "Lange AW",
+      "Engelhart E",
+      "Lahman MC",
+      "Adamo J",
+      "Yu X",
+      "Serang O",
+      "Minch KJ",
+      "Wellman KY",
+      "Younger DA",
+      "Lopez RM",
+      "Emerson RO"
+    ],
+    "journal": "mAbs",
+    "publication_date": "2025-Dec",
+    "abstract": "Antibodies are versatile therapeutic molecules that use combinatorial sequence diversity to cover a vast fitness landscape. Designing optimal antibody sequences, however, remains a major challenge. Recent advances in deep learning provide opportunities to address this challenge by learning sequence-function relationships to accurately predict fitness landscapes. These models enable efficient ",
+    "doi": "10.1080/19420862.2025.2534626",
+    "url": "https://doi.org/10.1080/19420862.2025.2534626",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Accurate de novo design of high-affinity protein-binding macrocycles using deep learning.",
+    "authors": [
+      "Rettie SA",
+      "Juergens D",
+      "Adebomi V",
+      "Bueso YF",
+      "Zhao Q",
+      "Leveille AN",
+      "Liu A",
+      "Bera AK",
+      "Wilms JA",
+      "Üffing A",
+      "Kang A",
+      "Brackenbrough E",
+      "Lamb M",
+      "Gerben SR",
+      "Murray A",
+      "Levine PM",
+      "Schneider M",
+      "Vasireddy V",
+      "Ovchinnikov S",
+      "Weiergräber OH",
+      "Willbold D",
+      "Kritzer JA",
+      "Mougous JD",
+      "Baker D",
+      "DiMaio F",
+      "Bhardwaj G"
+    ],
+    "journal": "Nature chemical biology",
+    "publication_date": "2025-Dec",
+    "abstract": "Developing macrocyclic binders to therapeutic proteins typically relies on large-scale screening methods that are resource intensive and provide little control over binding mode. Despite progress in protein design, there are currently no robust approaches for de novo design of protein-binding macrocycles. Here we introduce RFpeptides, a denoising diffusion-based pipeline for designing macrocyclic binders against protein targets of interest. We tested 20 or fewer designed macrocycles against each of four diverse proteins and obtained binders with medium to high affinity against all targets. For one of the targets, Rhombotarget A (RbtA), we designed a high-affinity binder (K",
+    "doi": "10.1038/s41589-025-01929-w",
+    "url": "https://doi.org/10.1038/s41589-025-01929-w",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Generation of antigen-specific paired-chain antibodies using large language models.",
+    "authors": [
+      "Wasdin PT",
+      "Johnson NV",
+      "Janke AK",
+      "Held S",
+      "Marinov TM",
+      "Jordaan G",
+      "Gillespie RA",
+      "Vandenabeele L",
+      "Pantouli F",
+      "Powers OC",
+      "Vukovich MJ",
+      "Holt CM",
+      "Kim J",
+      "Hansman G",
+      "Logue J",
+      "Chu HY",
+      "Andrews SF",
+      "Kanekiyo M",
+      "Sautto GA",
+      "Ross TM",
+      "Sheward DJ",
+      "McLellan JS",
+      "Abu-Shmais AA",
+      "Georgiev IS"
+    ],
+    "journal": "Cell",
+    "publication_date": "2025-Dec-11",
+    "abstract": "The traditional process of antibody discovery is limited by inefficiency, high costs, and low success rates. Recent approaches employing artificial intelligence (AI) have been developed to optimize existing antibodies and generate antibody sequences in a target-agnostic manner. In this work, we present MAGE (monoclonal antibody generator), a sequence-based protein language model (PLM) fine-tuned for the task of generating paired human variable heavy- and light-chain antibody sequences against targets of interest. We show that MAGE can generate novel and diverse antibody sequences with experimentally validated binding specificity against SARS-CoV-2, an emerging avian influenza H5N1, and respiratory syncytial virus A (RSV-A). MAGE represents a first-in-class model capable of designing human antibodies against multiple targets with no starting template.",
+    "doi": "10.1016/j.cell.2025.10.006",
+    "url": "https://doi.org/10.1016/j.cell.2025.10.006",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "CTLA4-related primary immune dysregulatory disorders.",
+    "authors": [
+      "Baris S"
+    ],
+    "journal": "Current opinion in allergy and clinical immunology",
+    "publication_date": "2025-Dec-01",
+    "abstract": "CTLA4-related immune disorders are primary immune dysregulation characterized by susceptibility to infections, autoimmunity, hyperinflammation, and malignancies. As new insights into their molecular mechanisms and therapeutic approaches emerge, we aim to provide a review that guides clinicians in diagnosing and adapting management strategies for LRBA deficiency and CTLA-4 insufficiency.",
+    "doi": "10.1097/ACI.0000000000001117",
+    "url": "https://doi.org/10.1097/ACI.0000000000001117",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Computational design of metallohydrolases.",
+    "authors": [
+      "Kim D",
+      "Woodbury SM",
+      "Ahern W",
+      "Tischer D",
+      "Kang A",
+      "Joyce E",
+      "Bera AK",
+      "Hanikel N",
+      "Salike S",
+      "Krishna R",
+      "Yim J",
+      "Pellock SJ",
+      "Lauko A",
+      "Kalvet I",
+      "Hilvert D",
+      "Baker D"
+    ],
+    "journal": "Nature",
+    "publication_date": "2026-Jan",
+    "abstract": "De novo enzyme design seeks to build proteins containing ideal active sites with catalytic residues surrounding and stabilizing the transition state(s) of the target chemical reaction",
+    "doi": "10.1038/s41586-025-09746-w",
+    "url": "https://doi.org/10.1038/s41586-025-09746-w",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Nanopore Single-Molecule Chemistry.",
+    "authors": [
+      "Liu Y",
+      "Gao X",
+      "Huang S"
+    ],
+    "journal": "Annual review of biophysics",
+    "publication_date": "2026-Jan-23",
+    "abstract": "Nanopores have become transformative tools in single-molecule chemical analysis, enabling detailed interrogation of molecular interactions and reaction dynamics. These advancements have revolutionized the characterization of chemical kinetics and stereospecificity, broadening nanopore applications. This review evaluates the principles of nanopore single-molecule chemistry, highlighting breakthroughs in chemically reactive nanopore construction via site-specific mutagenesis, semisynthetic engineering, and orthogonal modifications. Notably, we highlight the innovative strategies enabling precise subunit stoichiometry control to ensure single-molecule reactions, and the integration of machine learning for high-fidelity ionic current analysis. These developments position nanopores as versatile tools for intricate molecular detection in fundamental and applied research. Looking forward, nanopore single-molecule chemistry promises an impact on diagnostics, environmental monitoring, and precision medicine. Integration of molecular dynamics simulations, artificial intelligence-driven protein design frameworks, and microsystems technology may expand detectable species, enhancing robustness and lowering detection limits. Such advancements will deepen our understanding of chemical transformations and support meaningful real-world applications of nanopore technologies.",
+    "doi": "10.1146/annurev-biophys-021424-125106",
+    "url": "https://doi.org/10.1146/annurev-biophys-021424-125106",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Rational protein design.",
+    "authors": [
+      "Chubb JJ",
+      "Boyle AL",
+      "Albanese KI"
+    ],
+    "journal": "Current opinion in structural biology",
+    "publication_date": "2026-Feb-12",
+    "abstract": "Protein design enables the creation of novel structures and functions beyond those found in nature, with recent progress accelerated by computational modeling and machine learning. However, many automated methods act as black boxes, limiting mechanistic insight. Here we highlight the continuing importance of rational protein design, defined as an approach rooted in physical principles, chemical intuition, and sequence-structure-function relationships. We outline three complementary strategies: backbone-first, sequence-first, and function-first, which provide interpretable design frameworks and enable robust scaffold generation, motif incorporation, and functional engineering. Looking forward, we argue that hybrid workflows combining rational principles with machine learning offer the most promising route to dynamic, explainable, and generalizable protein design.",
+    "doi": "10.1016/j.sbi.2026.103224",
+    "url": "https://doi.org/10.1016/j.sbi.2026.103224",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Protein Structure Prediction Methods.",
+    "authors": [
+      "Teixeira SK",
+      "Lima AN",
+      "Resende-Lara PT",
+      "de Oliveira LR",
+      "de Toledo MAF"
+    ],
+    "journal": "Advances in experimental medicine and biology",
+    "publication_date": "2026",
+    "abstract": "Protein structure prediction, a fundamental challenge emerging from the protein folding problem, forms the basis of modern computational biology. This field addresses the critical question of how the amino acids sequence determines its three-dimensional structure, a relationship critical to understanding biological function. Over the last four decades, methodologies have evolved from template-based modeling (TBM) and free modeling (FM) to advanced hybrid and end-to-end deep learning approaches. TBM explores sequence homology and threading to predict structures based on a known template, while FM applies physics-based principles to navigate the rugged energy landscape that governs protein folding, predicting de novo stable native conformations. Recent breakthrough methods in protein structure prediction include hybrid methods that integrate physics, bioinformatics, and machine learning, as well as end-to-end methods such as AlphaFold2 and RoseTTAFold, which have revolutionized the field by using neural networks to directly predict atomic coordinates from sequences, achieving near-experimental accuracy. Protein language models further advance the field by learning sequence-structure-function relationships directly from amino acid sequences, bypassing the need for multiple-sequence alignments. These innovations address the sequence-structure-function paradigm and find applications in drug discovery, enzyme engineering, and disease research. This chapter explores the principles, advances, and transformative impact of these methodologies on the structural biology field.",
+    "doi": "10.1007/978-3-032-07511-6_1",
+    "url": "https://doi.org/10.1007/978-3-032-07511-6_1",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Machine learning to predict de novo protein-protein interactions.",
+    "authors": [
+      "Gainza P",
+      "Bunker RD",
+      "Townson SA",
+      "Castle JC"
+    ],
+    "journal": "Trends in biotechnology",
+    "publication_date": "2025-Dec",
+    "abstract": "Advances in machine learning for structural biology have dramatically enhanced our capacity to predict protein-protein interactions (PPIs). Here, we review recent developments in the computational prediction of PPIs, particularly focusing on innovations that enable interaction predictions that have no precedence in nature, termed de novo. We discuss novel machine learning algorithms for PPI prediction, including approaches based on co-folding and atomic graphs. We further highlight methods that learn from molecular surfaces, which can predict PPIs not found in nature including interactions induced by small molecules. Finally, we explore the emerging biotechnological applications enabled by these predictive capabilities, including the prediction of antibody-antigen complexes and molecular glue-induced PPIs, and discuss their potential to empower drug discovery and protein engineering.",
+    "doi": "10.1016/j.tibtech.2025.04.013",
+    "url": "https://doi.org/10.1016/j.tibtech.2025.04.013",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Machine learning enables de novo multiepitope design of ",
+    "authors": [
+      "Nelson JAD",
+      "Garfinkle SE",
+      "Lin ZJ",
+      "Park J",
+      "Kim AJ",
+      "Bayruns K",
+      "McCanna ME",
+      "Konrath KM",
+      "Agostino CJ",
+      "Kulp DW",
+      "Odom John AR",
+      "Pallesen J"
+    ],
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "publication_date": "2025-Dec-09",
+    "abstract": "Currently approved vaccines for the prevention of malaria provide only partial protection against disease due to high variability in the quality of induced antibodies. These vaccines present the unstructured central repeat region, as well as the C-terminal domain, of the circumsporozoite protein (",
+    "doi": "10.1073/pnas.2512358122",
+    "url": "https://doi.org/10.1073/pnas.2512358122",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Machine Learning for Protein Science and Engineering.",
+    "authors": [
+      "Koo PK",
+      "Dallago C",
+      "Nambiar A",
+      "Yang KK"
+    ],
+    "journal": "Cold Spring Harbor perspectives in biology",
+    "publication_date": "2026-Jan-05",
+    "abstract": "Recent years have seen significant breakthroughs at the intersection of machine learning and protein science. Tools such as AlphaFold have revolutionized protein structure prediction. They are also enabling variant effect prediction and functional annotation of proteins, as well as opening up new possibilities for protein design. However, these technological advances must be balanced with sustainable computing practices.",
+    "doi": "10.1101/cshperspect.a041877",
+    "url": "https://doi.org/10.1101/cshperspect.a041877",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Best Practices for Machine Learning-Assisted Protein Engineering.",
+    "authors": [
+      "Herrera-Rocha F",
+      "Medina-Ortiz D",
+      "Mauz F",
+      "Pleiss J",
+      "Davari MD"
+    ],
+    "journal": "Journal of chemical information and modeling",
+    "publication_date": "2025-Dec-08",
+    "abstract": "Data-driven modeling based on machine learning (ML) is becoming a central component of protein engineering workflows. This perspective presents the elements necessary to develop effective, reliable, and reproducible ML models, and a set of guidelines for ML developments for protein engineering. This includes a critical discussion of software engineering good practices for the development and evaluation of ML-based protein engineering projects, emphasizing supervised learning. These guidelines cover all of the necessary steps for ML development, from data acquisition to model deployment. Additionally, the present perspective provides practical resources for the implementation of the outlined guidelines. These recommendations are also intended to support editors and scientific journals in enforcing good practices in ML-based protein engineering publications, promoting high standards across the community. With this, the aim is to further contribute to improved ML transparency and credibility by easing the adoption of software engineering best practices into ML development for protein engineering. We envision that the wide adoption and continuous update of best practices will encourage informed use of ML on real-world problems related to protein engineering.",
+    "doi": "10.1021/acs.jcim.5c01983",
+    "url": "https://doi.org/10.1021/acs.jcim.5c01983",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Persona-driven generative AI in pharmaceuticals.",
+    "authors": [
+      "Wan Y",
+      "Nakayama M",
+      "Aldana CF",
+      "Alvino F"
+    ],
+    "journal": "Drug discovery today",
+    "publication_date": "2025-Dec",
+    "abstract": "Persona-driven generative artificial intelligence (GenAI) represents a transformative approach to pharmaceutical innovation, providing structured frameworks that enhance AI-human collaboration across drug development. We examine recent applications (2023-2025) spanning target identification, clinical development, regulatory intelligence, and patient communication. Key developments include AlphaFold 3's protein structure prediction breakthroughs, regulatory validation of digital twin methodologies, and AI-powered regulatory intelligence systems. Using contextual priming and specialized domain expertise, personas significantly improve GenAI performance in pharmaceutical contexts. Although these tools have demonstrated 60-70% timeline reductions and enhanced clinical trial efficiency, challenges remain in hallucination mitigation, bias management, and regulatory validation. This assessment highlights transformative opportunities while addressing critical implementation barriers for widespread pharmaceutical adoption.",
+    "doi": "10.1016/j.drudis.2025.104520",
+    "url": "https://doi.org/10.1016/j.drudis.2025.104520",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "AlphaFold for Docking Screens.",
+    "authors": [
+      "da Silva AD",
+      "de Azevedo WF"
+    ],
+    "journal": "Methods in molecular biology (Clifton, N.J.)",
+    "publication_date": "2026",
+    "abstract": "AlphaFold is an AI system developed by Google DeepMind to generate three-dimensional structures of proteins without experimental data. The models created with AlphaFold are available on the AlphaFold Protein Structure Database (AlphaFoldDB) ( https://alphafold.ebi.ac.uk/ ). The AlphaFold database is searchable by sequence and protein identification. This chapter focuses on an AlphaFold model and its use for docking screens using Molegro Virtual Docker. We rely on Jupyter Notebooks to integrate docking simulations and build regression models based on the atomic coordinates of protein-pose complexes. Our study focuses on constructing a neural network regression model to predict the inhibition of cyclin-dependent kinase 19 (CDK19). This enzyme is a target for anticancer drugs and does not have experimental data for its atomic coordinates. We utilize the Molegro Data Modeller to construct a regression model based on docking results of inhibitors for which binding affinity data is available. All CDK19 datasets and Jupyter Notebooks discussed in this work are available at GitHub: https://github.com/azevedolab/docking#readme .",
+    "doi": "10.1007/978-1-0716-4949-7_13",
+    "url": "https://doi.org/10.1007/978-1-0716-4949-7_13",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Accelerating promoter identification and design by deep learning.",
+    "authors": [
+      "Wang X",
+      "Xu K",
+      "Huang Z",
+      "Lin Y",
+      "Zhou J",
+      "Zhou L",
+      "Ma F"
+    ],
+    "journal": "Trends in biotechnology",
+    "publication_date": "2025-Dec",
+    "abstract": "Promoters are DNA sequences that govern the location, direction, and strength of gene transcription, playing a pivotal role in cellular growth and lifespan. Engineered promoters facilitate precise control of recombinant protein expression and metabolic pathway modulation for natural product biosynthesis. Traditional methods such as rational design and directed evolution have established the foundation for promoter engineering, and recent advances in deep learning (DL) have revolutionized the field. This review highlights the application of DL techniques for promoter identification, strength prediction, and de novo design using generative models. We describe how these tools are used and the impact of database quality, feature extraction, and model architecture on predictive accuracy. We discuss challenges and perspectives in developing robust models for promoter engineering.",
+    "doi": "10.1016/j.tibtech.2025.05.008",
+    "url": "https://doi.org/10.1016/j.tibtech.2025.05.008",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Protein Language Models: Applications and Perspectives.",
+    "authors": [
+      "Leclercq M",
+      "Droit A"
+    ],
+    "journal": "Journal of proteome research",
+    "publication_date": "2026-Feb-06",
+    "abstract": "Large language models (LLMs) originally developed for human text have been adapted to proteomics as protein language models (pLMs). These models treat amino acid sequences like sentences, and they learn patterns from millions of sequences. pLMs are used for several key tasks, including the prediction of protein structures, annotating protein functions, designing novel protein sequences with specific characteristics, and mapping the interactions between proteins and other molecules. Compared with traditional approaches, pLMs deliver insights more quickly but demand large computing resources and careful data management. Developers are focused on decreasing prediction inaccuracies and biases by exploring more efficient training techniques and smaller models to decrease the resources required. As sequence databases continue to grow, pLMs will improve to uncover links between proteins and disease pathways, speeding drug development and basic research while offering new proteome-scale insights that support experimental design and validation.",
+    "doi": "10.1021/acs.jproteome.5c00506",
+    "url": "https://doi.org/10.1021/acs.jproteome.5c00506",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Navigating protein-nucleic acid sequence-structure landscapes with deep learning.",
+    "authors": [
+      "Laine E",
+      "Grudinin S",
+      "Klypa R",
+      "Beauchêne IC"
+    ],
+    "journal": "Current opinion in structural biology",
+    "publication_date": "2025-Dec",
+    "abstract": "A few years after AlphaFold revolutionised the field of protein structure prediction, the new frontiers and limitations in structural biology have become clearer. Predicting protein-nucleic acid interactions currently stands as one of the major unresolved challenges in the field. This knowledge gap stems from the scarcity and limited diversity of experimental data, as well as the unique geometric, physicochemical, and evolutionary properties of nucleic acids. Despite these challenges, innovative ideas and promising methodological developments have emerged for both predicting protein-nucleic acid complex structures and designing nucleic acids capable of binding to specific protein conformations. This review presents these recent advances and discusses promising avenues, including the integration of high-throughput profiling data, the development of more rigourous and richer evaluation benchmarks, and the discovery of biologically meaningful regulatory and structural signals using self-supervised learning.",
+    "doi": "10.1016/j.sbi.2025.103162",
+    "url": "https://doi.org/10.1016/j.sbi.2025.103162",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "AI-Driven Enzyme Engineering: Emerging Models and Next-Generation Biotechnological Applications.",
+    "authors": [
+      "Khan MF",
+      "Khan MT"
+    ],
+    "journal": "Molecules (Basel, Switzerland)",
+    "publication_date": "2025-Dec-22",
+    "abstract": "Enzyme engineering drives innovation in biotechnology, medicine, and industry, yet conventional approaches remain limited by labour-intensive workflows, high costs, and narrow sequence diversity. Artificial intelligence (AI) is revolutionising this field by enabling rapid, precise, and data-driven enzyme design. Machine learning and deep learning models such as AlphaFold2, RoseTTAFold, ProGen, and ESM-2 accurately predict enzyme structure, stability, and catalytic function, facilitating rational mutagenesis and optimisation. Generative models, including ProteinGAN and variational autoencoders, enable de novo sequence creation with customised activity, while reinforcement learning enhances mutation selection and functional prediction. Hybrid AI-experimental workflows combine predictive modelling with high-throughput screening, accelerating discovery and reducing experimental demand. These strategies have led to the development of synthetic \"synzymes\" capable of catalysing non-natural reactions, broadening applications in pharmaceuticals, biofuels, and environmental remediation. The integration of AI-based retrosynthesis and pathway modelling further advances metabolic and process optimisation. Together, these innovations signify a shift from empirical, trial-and-error methods to predictive, computationally guided design. The novelty of this work lies in presenting a unified synthesis of emerging AI methodologies that collectively define the next generation of enzyme engineering, enabling the creation of sustainable, efficient, and functionally versatile biocatalysts.",
+    "doi": "10.3390/molecules31010045",
+    "url": "https://doi.org/10.3390/molecules31010045",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Do Pseudosequences Matter in Neoantigen Prediction?",
+    "authors": [
+      "Valeria A",
+      "Karchin R"
+    ],
+    "journal": "bioRxiv : the preprint server for biology",
+    "publication_date": "2025-Dec-12",
+    "abstract": "Computational prediction of neoantigens that elicit T cell responses is central to the development of personalized cancer vaccines. Many current predictors represent MHC class I alleles using selected subsets of residues, known as pseudosequences, yet the extent to which pseudosequence choice and encoding strategy influence predictive performance has not been systematically examined. This study addresses that gap by evaluating a range of MHC representations within the BigMHC EL framework. We compared pseudosequence definitions based on protein structure and evolutionary diversity, a randomly sampled pseudosequence baseline, pseudosequences of varying lengths, embeddings generated using the ESM-2 protein language model, and a graph-based annotation embedding derived from allele groupings. Models using biologically informed pseudosequences consistently outperformed the random baseline, underscoring the importance of residue selection. Protein structure and evolutionary diversity pseudosequences showed similar performance, likely reflecting overlap in residues near the peptide-binding groove. We also found that pseudosequences of approximately 30 to 35 residues produced the strongest performance. Lastly, ESM-2 and annotation-based embeddings outperformed the random baseline but did not surpass curated pseudosequences under the current setup. Together, these findings indicate that curated pseudosequences remain efficient representations of MHC alleles in neoantigen prediction models, while alternative encodings can approximate but not yet replace residue-level sequence information.",
+    "doi": "10.64898/2025.12.09.693250",
+    "url": "https://doi.org/10.64898/2025.12.09.693250",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Targeting peptide-HLA complexes for precision immunotherapy.",
+    "authors": [
+      "Bi J",
+      "Jiang L",
+      "Zhao J",
+      "Zhuang X",
+      "Pan L"
+    ],
+    "journal": "Trends in pharmacological sciences",
+    "publication_date": "2026-Jan-12",
+    "abstract": "Precision immunotherapy leverages the immune system to selectively eliminate abnormal cells while sparing healthy cells. Targeting specific peptide-human leukocyte antigen (pHLA) complexes, derived from cancer, autoimmune, and infectious disease, enables precise intervention, because these antigens are minimally expressed in normal tissues. However, designing binders with high specificity and low cross-reactivity remains challenging. Inspired by natural T cell receptor (TCR) recognition of pHLA complexes, synthetic approaches, including TCR-mimic antibodies (TCRm) and de novo pHLA binders, are emerging, adaptable into T cell engagers and adoptive therapies with promising specificity and efficacy. Moreover, advances in artificial intelligence (AI)-driven methods, immunopeptidomics, and computational protein design are accelerating the discovery and pan-allelic development of highly specific pHLA therapeutics. In this review, we discuss current approaches, mechanisms, preclinical and clinical data, and cutting-edge technologies shaping the future of pHLA-targeted immunotherapies.",
+    "doi": "10.1016/j.tips.2025.11.007",
+    "url": "https://doi.org/10.1016/j.tips.2025.11.007",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "De novo design of GPCR exoframe modulators.",
+    "authors": [
+      "Cheng S",
+      "Guo J",
+      "Zhou YL",
+      "Luo X",
+      "Zhang G",
+      "Zhang YZ",
+      "Yang Y",
+      "Xie J",
+      "Xu P",
+      "Shen DD",
+      "Zang S",
+      "Yang H",
+      "Zhen X",
+      "Zhang M",
+      "Zhang Y"
+    ],
+    "journal": "Nature",
+    "publication_date": "2026-Feb-16",
+    "abstract": "G-protein-coupled receptors (GPCRs) are important therapeutic targets and have been targeted mainly through their orthosteric site, where the endogenous agonist binds",
+    "doi": "10.1038/s41586-025-09957-1",
+    "url": "https://doi.org/10.1038/s41586-025-09957-1",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Artificial intelligence-powered biofoundries for protein engineering and metabolic engineering.",
+    "authors": [
+      "Chen J",
+      "Singh N",
+      "Lu J",
+      "Lane ST",
+      "Zhao H"
+    ],
+    "journal": "Current opinion in biotechnology",
+    "publication_date": "2025-Dec",
+    "abstract": "Synthetic biology is rapidly evolving through the integration of artificial intelligence (AI) and automated biofoundries. This convergence accelerates the design-build-test-learn cycle, shifting protein engineering and metabolic engineering from labor-intensive manual experimentation to autonomous experimentation. This review summarizes recent advances in workflow development, AI models, and their integration with biofoundries for automated or autonomous protein engineering and metabolic engineering. Particularly, we highlight the potential of AI-powered biofoundries for accelerated scientific discovery and innovation in synthetic biology.",
+    "doi": "10.1016/j.copbio.2025.103380",
+    "url": "https://doi.org/10.1016/j.copbio.2025.103380",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Computational design of intrinsically disordered proteins.",
+    "authors": [
+      "Tesei G",
+      "Pesce F",
+      "Lindorff-Larsen K"
+    ],
+    "journal": "Current opinion in structural biology",
+    "publication_date": "2026-Feb",
+    "abstract": "Protein design has the potential to revolutionize biotechnology and medicine. While most efforts have focused on proteins with well-defined structures, increased recognition of the functional significance of intrinsically disordered regions, together with improvements in their modeling, has paved the way to their computational design. This review summarizes recent advances in designing intrinsically disordered regions with tailored conformational ensembles, molecular recognition, and phase behavior. We discuss challenges in combining models of predictive accuracy with scalable design workflows and outline emerging strategies that integrate knowledge-based, physics-based, and machine-learning approaches.",
+    "doi": "10.1016/j.sbi.2025.103210",
+    "url": "https://doi.org/10.1016/j.sbi.2025.103210",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Building a lignin biofoundry: a review.",
+    "authors": [
+      "Bosman CE",
+      "Tyhoda L",
+      "Görgens JF",
+      "Trollope KM"
+    ],
+    "journal": "Current opinion in biotechnology",
+    "publication_date": "2025-Dec",
+    "abstract": "Lignin, a complex biopolymer, holds significant promise for sustainable bioconversion into high-value products and chemicals; however, its recalcitrance, variable composition, and low degradation rates limit industrial application. Naturally sourced enzymes remain insufficient, and mature commercial solutions are scarce. Synthetic biology opens new avenues for lignin biotransformation, particularly through biofoundries that automate the 'design-build-test-learn' cycle. These platforms can integrate robotics, data-driven biology, and artificial intelligence to expedite ligninolytic enzyme development. By enabling high-throughput screening, directed evolution, and biosensor-guided selection, lignin-focused biofoundries present a transformative framework for overcoming current limitations. This review explores recent biotechnological advances and highlights the potential of biofoundries to unlock lignin's untapped economic and environmental potential.",
+    "doi": "10.1016/j.copbio.2025.103377",
+    "url": "https://doi.org/10.1016/j.copbio.2025.103377",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Computational design of therapeutic antibodies with improved developability: efficient traversal of binder landscapes and rescue of escape mutations.",
+    "authors": [
+      "Dreyer FA",
+      "Schneider C",
+      "Kovaltsuk A",
+      "Cutting D",
+      "Byrne MJ",
+      "Nissley DA",
+      "Kenlay H",
+      "Marks C",
+      "Errington D",
+      "Gildea RJ",
+      "Damerell D",
+      "Tizei P",
+      "Bunjobpol W",
+      "Darby JF",
+      "Drulyte I",
+      "Hurdiss DL",
+      "Surade S",
+      "Wahome N",
+      "Pires DEV",
+      "Deane CM"
+    ],
+    "journal": "mAbs",
+    "publication_date": "2025-Dec",
+    "abstract": "Developing therapeutic antibodies is a challenging endeavor, often requiring large-scale screening to produce initial binders, that still often require optimization for developability. We present a computational pipeline for the discovery and design of therapeutic antibody candidates, which incorporates physics- and AI-based methods for the generation, assessment, and validation of candidate antibodies with improved developability against diverse epitopes, via efficient few-shot experimental screens. We demonstrate that these orthogonal methods can lead to promising designs. We evaluated our approach by experimentally testing a small number of candidates against multiple SARS-CoV-2 variants in three different tasks: (i) traversing sequence landscapes of binders, we identify highly sequence dissimilar antibodies that retain binding to the Wuhan strain, (ii) rescuing binding from escape mutations, we show up to 54% of designs gain binding affinity to a new subvariant and (iii) improving developability characteristics of antibodies while retaining binding properties. These results together demonstrate an end-to-end antibody design pipeline with applicability across a wide range of antibody design tasks. We experimentally characterized binding against different antigen targets, developability profiles, and cryo-EM structures of designed antibodies. Our work demonstrates how combined AI and physics computational methods improve productivity and viability of antibody designs.",
+    "doi": "10.1080/19420862.2025.2511220",
+    "url": "https://doi.org/10.1080/19420862.2025.2511220",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Protein design and RNA design: Perspectives.",
+    "authors": [
+      "Chen X",
+      "Dai X",
+      "Lu P"
+    ],
+    "journal": "Quantitative biology (Beijing, China)",
+    "publication_date": "2026-Jun",
+    "abstract": "Advances in deep learning and generative modeling have transformed the landscape of protein and RNA design, enabling rapid and precise creation of novel biomolecules with tailored structures and functions. In protein design, generative deep learning frameworks now support backbone generation, sequence optimization, and joint sequence-structure co-design with unprecedented accuracy. These approaches have facilitated broad applications ranging from cyclic peptide and non-natural fold engineering to functional tool development, including small-molecule sensing, catalytic center scaffolding, allosteric switching, intracellular logic circuits, and the targeting of intrinsically disordered proteins. Emerging therapeutic applications-such as immune cell engineering, G protein-coupled receptor-targeted miniproteins, receptor-degrading binders, and thermostable antitoxins-demonstrate the translational potential of computational design. Parallel progress in RNA design, driven by enhanced 3D structure prediction models and generative algorithms, is expanding capabilities in aptamer engineering and RNA-protein complexes, despite ongoing challenges in model generalization and experimental validation. Together, these developments highlight a new era of AI-driven molecular engineering, in which unified protein-RNA modeling, large-scale sampling, and automated experimental pipelines will accelerate the creation of programmable biological systems and next-generation therapeutics.",
+    "doi": "10.1002/qub2.70029",
+    "url": "https://doi.org/10.1002/qub2.70029",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Leveraging AI for cell biology discovery.",
+    "authors": [
+      "Simizo A",
+      "de Morais M",
+      "Vesco M",
+      "Nakaya H"
+    ],
+    "journal": "Biochemical Society transactions",
+    "publication_date": "2026-Jan-08",
+    "abstract": "Artificial intelligence (AI) has become a transformative tool in cell biology, driving discoveries through the analysis of complex biological data. This review explores the diverse applications of AI, including its impact on microscopy, imaging, drug discovery, and synthetic biology. AI methods have significantly advanced our ability to analyze cellular images at single-cell resolution, uncover complex patterns in biological data, and predict cellular responses to various stimuli. Deep learning approaches have improved cell segmentation and tracking, facilitated precise single-cell transcriptomics analysis, and enhanced our understanding of protein structures and interactions. The application of AI to high-throughput technologies has also enabled detailed modeling of cell behavior. Key challenges are addressed, such as data quality requirements, model interpretability, and the need to democratize AI tools for broader accessibility in biology. Finally, the review considers future directions, highlighting AI's potential to advance basic research and therapeutic applications.",
+    "doi": "10.1042/BST20253023",
+    "url": "https://doi.org/10.1042/BST20253023",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Decoding protein structures with residue interaction networks.",
+    "authors": [
+      "Begue SC",
+      "Leonardi E",
+      "Tosatto SCE"
+    ],
+    "journal": "Trends in biochemical sciences",
+    "publication_date": "2025-Dec",
+    "abstract": "The rise of AlphaFold and similar structure predictors has made it possible to determine the 3D structure of almost any protein from its amino acid sequence. Residue interaction networks (RINs), graphs where residues are represented as nodes and interactions as edges, provide a powerful framework for analyzing and interpreting this surge in structural data. Here, we provide a comprehensive introduction to RINs, exploring different approaches to constructing and analyzing them, including their integration with molecular dynamics (MD) simulations and artificial intelligence (AI). To illustrate their versatility, we present different case studies where RINs have been applied to investigate thermostability, allosterism, post-translational modifications (PTMs), homology, and evolution. Finally, we discuss future directions for RINs, emphasizing opportunities for refinement and broader integration into structural biology.",
+    "doi": "10.1016/j.tibs.2025.08.006",
+    "url": "https://doi.org/10.1016/j.tibs.2025.08.006",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Efficient, Few-shot Directed Evolution with Energy Rank Alignment.",
+    "authors": [
+      "Ibarraran S",
+      "Chennakesavalu S",
+      "Hu F",
+      "Rotskoff GM"
+    ],
+    "journal": "bioRxiv : the preprint server for biology",
+    "publication_date": "2026-Feb-06",
+    "abstract": "Directed evolution is a powerful and widely used technique for protein engineering, and reducing the cost of iterated experimental observations has become a major priority for practitioners. A number of recent efforts to use machine-learning-based predictors to improve sequence selection have led to remarkable improvements in efficiency, but the sparse data at each experimental iteration restricts these approaches to extremely simple models. Adapting large-scale pre-trained protein language models using experimental data offers an alternative that we show productively leverages the strong inductive biases of the natural distribution of protein sequences to navigate high-dimensional, combinatorially large fitness landscapes. Our approach uses a general-purpose \"post-training\" algorithm grounded in statistical physics that employs quantitative experimental rankings to directly produce a sampler for diverse, high fitness sequences with fewer data points than competing methods. The resulting adapted protein language model can itself be studied and interpreted, shedding further light on the biophysical characteristics of highly fit sequences and their properties.",
+    "doi": "10.64898/2026.02.03.703561",
+    "url": "https://doi.org/10.64898/2026.02.03.703561",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Energy-driven innovations in computational de novo protein engineering.",
+    "authors": [
+      "Kırboğa KK",
+      "Küçüksille EU"
+    ],
+    "journal": "Progress in biophysics and molecular biology",
+    "publication_date": "2026-Mar",
+    "abstract": "Energy models play a crucial role in the advancement of computational de novo protein engineering, enabling the design of novel proteins with tailored functionalities. Proteins serve as the foundation of biochemical processes, making their precise engineering essential for applications in biotechnology, medicine, and synthetic biology. Unlike traditional approaches that focus on modifying existing proteins, de novo engineering introduces entirely new constructs, a paradigm shift driven by energy-based strategies that guide protein folding, stability, and functionality through comprehensive simulations of energy landscapes. Computational techniques such as molecular dynamics (MD), thermodynamic integration, and Monte Carlo sampling are fundamental in evaluating designed proteins' stability and dynamic behavior. Widely used tools such as CHARMM, Amber, and Rosetta leverage advanced energy functions to optimize protein structures, facilitating accurate predictions of folding pathways and binding affinities. Additionally, the integration of machine learning (ML) and deep learning (DL) has significantly improved the speed and precision of energy-based modeling, enhancing the design and optimization process. This review systematically analyzes recent studies, provides quantitative benchmarking of major computational platforms, and presents a decision framework for method selection based on accuracy-cost-throughput trade-offs. By integrating classical force fields, quantum mechanical (QM) approaches, and AI-driven predictions with experimental validation, this work outlines a roadmap for advancing therapeutic and industrial protein design through synergistic physics-based and data-driven strategies.",
+    "doi": "10.1016/j.pbiomolbio.2026.01.005",
+    "url": "https://doi.org/10.1016/j.pbiomolbio.2026.01.005",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Structure prediction and engineering of de novo proteins.",
+    "authors": [
+      "Qi L",
+      "Isalan M"
+    ],
+    "journal": "Biochimica et biophysica acta. Proteins and proteomics",
+    "publication_date": "2026-Jan-01",
+    "abstract": "De novo proteins represent a challenging frontier at the intersection of evolutionary biology and synthetic biology. Broadly, the term encompasses two distinct categories: naturally evolved de novo proteins, which arise from previously non-coding DNA, and synthetically designed de novo proteins, which are created from scratch through computational and experimental methods. This review provides an overview of the definitions, history, functional significance, and investigation methods for both categories. By examining potential challenges in current de novo protein research, this review highlights the growing convergence between natural evolutionary processes and rational protein engineering, reflecting their importance in biological discovery and human innovations.",
+    "doi": "10.1016/j.bbapap.2025.141100",
+    "url": "https://doi.org/10.1016/j.bbapap.2025.141100",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Protein folding stability estimation with explicit consideration of unfolded states.",
+    "authors": [
+      "Lee H",
+      "Cho Y",
+      "Yun J",
+      "Steinegger M",
+      "Kim HM",
+      "Park H"
+    ],
+    "journal": "Nature communications",
+    "publication_date": "2026-Jan-21",
+    "abstract": "Folding stability is crucial for the vast majority of proteins. Computational methods suggested to date for the absolute folding stability (ΔG) prediction, including those driven from protein structure prediction AIs, show clear limitations in reproducing quantitative experimental values. Here we present IFUM, a deep neural network that jointly estimates ΔG and the equilibrium ensemble of folded and unfolded states represented by residue-pair distance probability distributions. This joint learning considerably enhances prediction accuracy compared to learning ΔG alone. Trained on a dataset including Mega-scale small proteins, disordered proteins, and wild-type natural proteins, IFUM is robust to various protein types and can accurately predict complex mutational effects like insertions or deletions. Here, we show that IFUM effectively guides real-world design challenges, exhibiting strong correlation with experimental melting temperatures in protein engineering and outperforming AlphaFold-based metrics in de novo design selection.",
+    "doi": "10.1038/s41467-026-68637-4",
+    "url": "https://doi.org/10.1038/s41467-026-68637-4",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Emerging strategies to develop novel genetically encoded biosensors.",
+    "authors": [
+      "Chang L",
+      "Wang J",
+      "Wang M",
+      "Zhang Y"
+    ],
+    "journal": "Trends in biotechnology",
+    "publication_date": "2025-Dec",
+    "abstract": "The current biosensor inventory is inadequate for the multitude of metabolites and proteins needing detection. Assisted by new technologies and research paradigms such as multi-omics analysis and de novo protein design, emerging strategies provide a promising avenue for the development of novel, tailored genetically encoded biosensors for various applications.",
+    "doi": "10.1016/j.tibtech.2025.04.014",
+    "url": "https://doi.org/10.1016/j.tibtech.2025.04.014",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Protein language models trained on biophysical dynamics inform mutation effects.",
+    "authors": [
+      "Hou C",
+      "Zhao H",
+      "Shen Y"
+    ],
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "publication_date": "2026-Jan-27",
+    "abstract": "Structural dynamics are fundamental to protein functions and mutation effects. Current protein deep learning models are predominantly trained on sequence and/or static structure data, which often fail to capture the dynamic nature of proteins. To address this, we introduce SeqDance and ESMDance, two protein language models trained on dynamic biophysical properties derived from molecular dynamics simulations and normal mode analyses of over 64,000 proteins. Both models can be directly applied to predict dynamic properties of unseen ordered and disordered proteins. SeqDance, trained from scratch, has attentions that capture dynamic interaction and comovement between residues, and its embeddings encode rich representations of protein dynamics that can be further utilized to predict conformational properties beyond the training tasks via transfer learning. SeqDance predicted dynamic property changes reflect mutation effect on protein folding stability. ESMDance, built upon ESM2 (Evolutionary Scale Model II) outputs, substantially outperforms ESM2 in zero-shot prediction of mutation effects for designed and viral proteins which lack evolutionary information. Together, SeqDance and ESMDance offer a framework for integrating protein dynamics into language models, enabling more generalizable predictions of protein behavior and mutation effects.",
+    "doi": "10.1073/pnas.2530466123",
+    "url": "https://doi.org/10.1073/pnas.2530466123",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Exploring functional insights into the human gut microbiome via the structural proteome.",
+    "authors": [
+      "Liu H",
+      "Shen J",
+      "Zhang Z",
+      "Wang J",
+      "Zhang C",
+      "Zheng L",
+      "Ni H",
+      "Hong L",
+      "Zhang J",
+      "Xue D",
+      "Chen J",
+      "Yu Q",
+      "Qu Z",
+      "Ma Y",
+      "Si T",
+      "Zheng L",
+      "Wang S",
+      "Jiang C",
+      "Li Y",
+      "Wang K",
+      "Dai L"
+    ],
+    "journal": "Cell host & microbe",
+    "publication_date": "2026-Jan-14",
+    "abstract": "The human gut microbiome contains numerous proteins whose functions remain elusive yet are pivotal to host health. Sequence-based methods often falter when attempting to infer functions within this microbial proteome due to evolutionary divergence. To address this challenge, we develop the Human Gut Microbial Protein Structure Database, which incorporates ∼2.7 million predicted protein structures. Our findings reveal that structural analogy enhances the annotation of phage proteins. We detail the structural diversification of phage endolysins and confirm their potential in eliminating gut pathobionts. Furthermore, our structure-guided approach is effective in the identification of microbial-host isozymes. By employing structural alignments, we identify previously unrecognized bacterial enzymes involved in melatonin biosynthesis. Finally, we present an alignment-free method, dense enzyme retrieval, based on structure-encoded protein language models for ultrafast and sensitive detection of remote homologs. Our research underscores the value of computational structural genomics in elucidating the functional landscape of the human gut microbiome.",
+    "doi": "10.1016/j.chom.2025.11.001",
+    "url": "https://doi.org/10.1016/j.chom.2025.11.001",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Structure and evolution-guided design of minimal RNA-guided nucleases.",
+    "authors": [
+      "Skopintsev P",
+      "Esain-Garcia I",
+      "DeTurk EC",
+      "Yoon PH",
+      "Zhou Z",
+      "Weiss T",
+      "Kamalu M",
+      "Chamraj A",
+      "Loi KJ",
+      "Langeberg CJ",
+      "Boger R",
+      "Nisonoff H",
+      "Karp HM",
+      "Chen L",
+      "Shi H",
+      "Vohra K",
+      "Banfield JF",
+      "Cate JHD",
+      "Jacobsen SE",
+      "Doudna JA"
+    ],
+    "journal": "bioRxiv : the preprint server for biology",
+    "publication_date": "2025-Dec-08",
+    "abstract": "The design of RNA-guided nucleases with properties not limited by evolution can expand programmable genome editing capabilities. However, generating diverse multi-domain proteins with robust enzymatic properties remains challenging. Here we use an artificial intelligence-driven strategy that couples structure-guided inverse protein folding with evolution-informed residue constraints to generate active, divergent variants of TnpB, a minimal CRISPR-Cas12-like nuclease. High-throughput functional screening of AI-generated variants yielded editors that retained or exceeded wild-type activity in bacterial, plant and human cells. Cryo-EM-based structure determination of the most divergent active variant revealed new stabilizing contacts in the RNA/DNA interfaces across conformational states, demonstrating the design potential of this approach. Together these results establish a strategy for creating non-natural RNA-guided nucleases and conformationally active nucleic acid binders, enlarging the designable protein space.",
+    "doi": "10.64898/2025.12.08.692503",
+    "url": "https://doi.org/10.64898/2025.12.08.692503",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Biocentral: Embedding-based Protein Predictions.",
+    "authors": [
+      "Franz S",
+      "Olenyi T",
+      "Schloetermann P",
+      "Smaoui A",
+      "Jimenez-Soto LF",
+      "Rost B"
+    ],
+    "journal": "Journal of molecular biology",
+    "publication_date": "2026-Jan-30",
+    "abstract": "The rise of protein Language Models (pLMs) is reshaping the landscape of protein prediction. Embeddings are powerful protein representations provided by pLMs, but they come at a cost: their generation requires expensive hardware, and leveraging models often requires expert knowledge. To some extent, these hurdles limit the ease of use and benefits of those methods both for experimental and computational biologists. Biocentral aims at providing a free and open embedding-based service, which addresses these challenges. We support standardized access to most pLMs currently in use, enabling researchers to generate embeddings, get embedding-based protein feature predictions, and train embedding-based models. Here, we showcase biocentral in a large-scale analysis of the BFVD virus database through biocentral's predict module. We also show how readily biocentral's training module reproduces an existing embedding-based prediction method. The server is accessible through a graphical user interface and a programmatic Application Programming Interface (API) at: https://biocentral.rostlab.org.",
+    "doi": "10.1016/j.jmb.2026.169673",
+    "url": "https://doi.org/10.1016/j.jmb.2026.169673",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Deconvolving mutation effects on protein stability and function with disentangled protein language models.",
+    "authors": [
+      "Ding K",
+      "Li Z",
+      "Tu T",
+      "Luo J",
+      "Luo Y"
+    ],
+    "journal": "bioRxiv : the preprint server for biology",
+    "publication_date": "2026-Feb-05",
+    "abstract": "Understanding how evolutionary constraints shape protein sequences is fundamental to deciphering the molecular mechanisms underlying protein stability and function, which has broad implications in protein engineering and therapeutics development. Recent advances in protein language models (pLMs) have enabled accurate prediction of mutation effects through evolutionary information, effectively capturing the selective pressure that governs protein sequence variation. A critical challenge, however, remains in disentangling the intertwined mutation effects on protein stability and function, as evolutionary signals conflate both stability-driven and function-driven pressures, obscuring the mechanistic basis of mutation effects and limiting their utility for rational protein engineering. In this work, we introduce DETANGO, a novel deep learning framework that explicitly deconvolves the mutation effects on protein functions by removing components attributable to stability perturbations from the pLM-predicted mutation effects. Guided by computational or experimental stability measurements, DETANGO estimates a functional plausibility score for each single-point mutation that is the component of the mutation effect not accounted for by changes in stability. Single-point mutations with low functional plausibilities are predicted to be stable-but-inactive (SBI) variants, whose compromised activities are caused by direct perturbations on functional mechanisms rather than structural stability. Residues enriched for such variants are inferred to be functionally critical, as indicated by the strong evolutionary pressures to maintain protein function. Through extensive benchmarking experiments, we show that DETANGO accurately identifies SBI variants and pinpoints functionally important residues across contexts, including ligand binding, catalysis, and allostery. Moreover, extending DETANGO from individual proteins to homologous protein families reveals shared and distinctive functional patterns across protein families. Collectively, these results establish DETANGO as a biologically grounded framework for disentangling evolutionary constraints on protein stability and function, advancing mechanistic understanding of protein function, and informing rational protein engineering.",
+    "doi": "10.64898/2026.02.03.703560",
+    "url": "https://doi.org/10.64898/2026.02.03.703560",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "De novo covalent drug generation with enhanced drug-likeness and safety.",
+    "authors": [
+      "Zhang W",
+      "Liu T",
+      "Dong X",
+      "Sun S",
+      "Yao X",
+      "Li P",
+      "Gao L"
+    ],
+    "journal": "Communications biology",
+    "publication_date": "2026-Feb-17",
+    "abstract": "Covalent drugs have long played an essential role in therapeutics, yet computational design approaches remain largely confined to virtual screening of existing libraries. Despite recent advances in deep generative models for drug discovery, methods specifically tailored to de novo covalent drug generation are still lacking. Here we introduce CovaGEN, a conditional latent diffusion framework for the de novo design of covalent inhibitors with enhanced drug-likeness and safety. CovaGEN generates ligands from a drug-like latent space while conditioning on target sequences and employing a classifier to guide the formation of desirable covalent warheads. A reinforcement learning strategy further optimizes the safety profiles of generated molecules. Experimental results demonstrate that CovaGEN effectively generates covalent drugs with the desired covalent warheads, exhibiting strong target protein affinity, favorable drug-likeness, and low toxicity. When applied to EGFR T790M and Mpro, the generated compounds exhibit higher probabilities of covalent binding. Overall, CovaGEN offers a pioneering approach for the de novo design of covalent inhibitors, advancing the discovery of covalent drugs with improved properties.",
+    "doi": "10.1038/s42003-026-09725-5",
+    "url": "https://doi.org/10.1038/s42003-026-09725-5",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Modeling Alternative Conformational States in CASP16.",
+    "authors": [
+      "Dube N",
+      "Ramelot TA",
+      "Benavides TL",
+      "Huang YJ",
+      "Moult J",
+      "Kryshtafovych A",
+      "Montelione GT"
+    ],
+    "journal": "Proteins",
+    "publication_date": "2026-Jan",
+    "abstract": "The CASP16 Ensemble Prediction experiment assessed advances in methods for modeling proteins, nucleic acids, and their complexes in multiple conformational states. Targets included systems with experimental structures determined in two or three states, evaluated by direct comparison to experimental coordinates, as well as domain-linker-domain (D-L-D) targets assessed against statistical models generated from NMR and SAXS data. This paper focuses on the former class of multi-state targets. Ten ensembles were released as community challenges, including ligand-induced conformational changes, protein-DNA complexes, a trimeric protein, a stem-loop RNA, and multiple oligomeric states of a single RNA. For five targets, some groups produced reasonably accurate models of both reference states (best TM-score > 0.75). However, with the exception of one protein-ligand complex (T1214), where an apo structure was available as a template, predictors generally failed to capture key structural details distinguishing the states. Overall, accuracy was significantly lower than for single-state targets in other CASP experiments. The most successful approaches generated multiple AlphaFold2 models using enhanced multiple sequence alignments and sampling protocols, followed by model quality-based selection. Although the AlphaFold3 server performed well on several targets, individual groups outperformed it in specific cases. By contrast, predictions for one protein-DNA complex, three RNA targets, and multiple oligomeric RNA states consistently fell short (TM-score < 0.75). These results highlight both progress and persistent challenges in multi-state prediction. Despite recent advances, accurate modeling of conformational ensembles, particularly RNA and large multimeric assemblies, remains an important frontier for structural biology.",
+    "doi": "10.1002/prot.70065",
+    "url": "https://doi.org/10.1002/prot.70065",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Artificial intelligence in antibody design and development: harnessing the power of computational approaches.",
+    "authors": [
+      "Kavousipour S",
+      "Barazesh M",
+      "Mohammadi S"
+    ],
+    "journal": "Medical & biological engineering & computing",
+    "publication_date": "2025-Dec",
+    "abstract": "Antibodies are a key therapeutic class in pharma, enabling precise targeting of disease agents. Traditional methods for their design are slow, costly, and limited. Advances in high-throughput data and artificial intelligence (AI) including machine learning, deep learning, and reinforcement learning have revolutionized antibody sequence design, 3D structure prediction, and optimization of affinity and specificity. Computational approaches enable rapid library generation and efficient screening, reduce experimental sampling, and support rational design with improved immune response. Combining AI with experimental methods allows for de novo, multifunctional antibody development. AI also accelerates the discovery process, target identification, and candidate prioritization by analyzing large datasets, predicting interactions, and guiding modifications to enhance efficacy and safety. Despite challenges, ongoing research continues to expand the potential of AI and transform antibody development and the pharmaceutical industry. Antibodies are a key therapeutic class in pharma, enabling precise targeting of disease agents. Traditional methods for their design are slow, costly, and limited. Advances in high-throughput data and artificial intelligence (AI) including machine learning, deep learning, and reinforcement learning have revolutionized antibody sequence design, 3D structure prediction, and optimization of affinity and specificity. Computational approaches enable rapid library generation and efficient screening, reduce experimental sampling, and support rational design with improved immune response. Combining AI with experimental methods allows for de novo, multifunctional antibody development. AI also accelerates the discovery process, target identification, and candidate prioritization by analyzing large datasets, predicting interactions, and guiding modifications to enhance efficacy and safety. Despite challenges, ongoing research continues to expand the potential of AI and transform antibody development and the pharmaceutical industry.",
+    "doi": "10.1007/s11517-025-03429-4",
+    "url": "https://doi.org/10.1007/s11517-025-03429-4",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Flexible protein-ligand docking with diffusion-based side-chain packing.",
+    "authors": [
+      "Zhang R",
+      "Jiang X",
+      "Cao D",
+      "Wang Z",
+      "Yu J",
+      "Chen M",
+      "Fan Z",
+      "Kong X",
+      "Xiong J",
+      "Zhang Z",
+      "Zhang W",
+      "Ni S",
+      "Wang Y",
+      "Liao M",
+      "Gao S",
+      "Zhang S",
+      "Zheng M"
+    ],
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "publication_date": "2025-Dec-30",
+    "abstract": "Understanding protein structure and dynamics is crucial for basic biology and drug design. Conventional methods often provide static conformations that inadequately capture protein flexibility. We present PackDock, a framework that integrates deep learning and physics-based modeling to represent protein-ligand interactions. PackDock's core, PackPocket, uses diffusion models to sample diverse binding pocket conformations and predict ligand-induced changes. We validate PackDock through side-chain packing, redocking, and cross-docking experiments, demonstrating its ability to address protein flexibility challenges. In a real-world application, PackDock identified nanomolar affinity compounds with unreported scaffolds for the protein of interest. Additionally, it revealed key amino acid conformational changes, offering insights into protein-ligand interactions. By accurately predicting complex conformations in various scenarios, PackDock enhances our understanding of protein dynamics and provides perspectives for both basic biological research and drug discovery efforts.",
+    "doi": "10.1073/pnas.2511925122",
+    "url": "https://doi.org/10.1073/pnas.2511925122",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "De Novo Design of High-Affinity Miniprotein Binders Targeting Francisella Tularensis Virulence Factor.",
+    "authors": [
+      "Gokce-Alpkilic G",
+      "Huang B",
+      "Liu A",
+      "Kreuk LSM",
+      "Wang Y",
+      "Adebomi V",
+      "Bueso YF",
+      "Bera AK",
+      "Kang A",
+      "Gerben SR",
+      "Rettie S",
+      "Vafeados DK",
+      "Roullier N",
+      "Goreshnik I",
+      "Li X",
+      "Baker D",
+      "Woodward JJ",
+      "Mougous JD",
+      "Bhardwaj G"
+    ],
+    "journal": "Angewandte Chemie (International ed. in English)",
+    "publication_date": "2025-Dec-22",
+    "abstract": "Francisella tularensis poses considerable public health risk due to its high infectivity and potential for bioterrorism. Francisella-like lipoprotein (Flpp3), a key virulence factor unique to Francisella, plays critical roles in infection and immune evasion, making it a promising target for therapeutic development. However, the lack of well-defined binding pockets and structural information on native interactions has hindered structure-guided ligand discovery against Flpp3. Here, we used a combination of physics-based and deep-learning methods to design high-affinity miniprotein binders targeting two distinct sites on Flpp3. We identified four binders for site I with binding affinities ranging between 24-110 nM. For the second site, an initial binder showed a dissociation constant (K",
+    "doi": "10.1002/anie.202516058",
+    "url": "https://doi.org/10.1002/anie.202516058",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Large language model agents as experimental orchestrators in data-driven enzyme engineering.",
+    "authors": [
+      "Gao Y",
+      "Fu L",
+      "Si T"
+    ],
+    "journal": "Current opinion in biotechnology",
+    "publication_date": "2025-Dec",
+    "abstract": "Artificial intelligence (AI) has revolutionized computational enzyme design, but experimental validation remains a critical bottleneck. This perspective examines how large language model (LLM) agents bridge the gap between computational predictions and physical experimentation through intelligent orchestration of complex experimental workflows. Unlike traditional automation following rigid scripts, LLM-powered systems dynamically generate protocols, translate them into machine commands, coordinate resources, and adapt to experimental feedback in real-time. This short perspective covers multi-agent frameworks from recent implementations and presents case studies showcasing closed-loop design-build-test-learn iterations in enzyme engineering. These systems provide both standardization and flexibility needed to handle complex, context-dependent experimental decisions, potentially accelerating enzyme engineering while enhancing accessibility to sophisticated AI capabilities.",
+    "doi": "10.1016/j.copbio.2025.103376",
+    "url": "https://doi.org/10.1016/j.copbio.2025.103376",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Cell free systems for biodesign.",
+    "authors": [
+      "Tariq M",
+      "Patil N",
+      "Jain M",
+      "Desai D",
+      "Kuhite P",
+      "Madan A",
+      "Rawat S"
+    ],
+    "journal": "Progress in molecular biology and translational science",
+    "publication_date": "2026",
+    "abstract": "Cell-free systems (CFS) have emerged as transformative tools in synthetic biology, enabling the execution of complex biological reactions such as transcription and translation outside the confines of living cells. By eliminating the cellular membrane, CFS allows unprecedented control over biochemical conditions, facilitating rapid prototyping (up to 10x faster than traditional in vivo systems), streamlined design-build-test cycles, and the direct production of proteins, including those that are toxic or difficult to express in vivo. Rooted in pivotal discoveries from the 1960s, CFS technologies have evolved to include refined systems like the PURE system, freeze-dried diagnostics, and programmable biosynthesis platforms, integrating seamlessly with automation, artificial intelligence, and microfluidics. Modern CFS platforms support a broad range of applications, from on-demand vaccine and therapeutic production to environmental monitoring, protein engineering, and sustainable biomanufacturing. Their modular nature makes them ideal for developing genetic circuits, metabolic pathways, and biosensors, while also accelerating high-throughput screening and educational access through platforms like BioBits. Despite challenges such as reagent costs, batch variability, and scalability, recent advances in energy regeneration, lyophilization, and predictive modelling are progressively addressing these hurdles. Ultimately, CFS is not just a powerful research tool; it represents a paradigm shift toward decentralized, programmable biotechnology. From field-deployable diagnostics to space-based biomolecule synthesis, cell-free systems are paving the way for a more responsive, accessible, and innovative future in biological engineering.",
+    "doi": "10.1016/bs.pmbts.2025.08.010",
+    "url": "https://doi.org/10.1016/bs.pmbts.2025.08.010",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Enhancing ML-based binder design with high-throughput screening: a comparison of mRNA and yeast display technologies.",
+    "authors": [
+      "Yao Z",
+      "Metts M",
+      "Huber AK",
+      "Li J",
+      "Kinjo T",
+      "Dieckhaus H",
+      "Nallathambi A",
+      "Bowers AA",
+      "Kuhlman B"
+    ],
+    "journal": "bioRxiv : the preprint server for biology",
+    "publication_date": "2026-Feb-14",
+    "abstract": "Recent advances in machine learning (ML)-based protein design methods have enabled the rapid ",
+    "doi": "10.64898/2026.02.12.705611",
+    "url": "https://doi.org/10.64898/2026.02.12.705611",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "New chemicals fuel the evolution of microbial biodegradation.",
+    "authors": [
+      "Wackett LP"
+    ],
+    "journal": "Microbiology and molecular biology reviews : MMBR",
+    "publication_date": "2025-Dec-18",
+    "abstract": null,
+    "doi": "10.1128/mmbr.00207-24",
+    "url": "https://doi.org/10.1128/mmbr.00207-24",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Advantages and Limitations of AlphaFold in Structural Biology: Insights from Recent Studies.",
+    "authors": [
+      "Li MQC",
+      "Wang S",
+      "Lin SR",
+      "Ting LEN",
+      "Wan ZH",
+      "Xie G",
+      "Zhang J"
+    ],
+    "journal": "The protein journal",
+    "publication_date": "2025-Dec-01",
+    "abstract": "Over the past three years, AlphaFold-a deep learning-based protein structure prediction system-has transformed structural biology by providing near-experimental accuracy models directly from amino acid sequences. This narrative review synthesizes applications reported in the 2022-2025 literature across human, microbial, and viral systems, drawing on peer-reviewed studies as our data source. Representative examples include modeling of SARS-CoV-2 spike and nucleocapsid proteins in virology, assisting cryo-EM interpretation of bacterial ribosomal and membrane-protein complexes in microbiology, and refining conformational hypotheses for human GPCRs in biomedicine. Across these cases, AlphaFold predictions have complemented experimental workflows by accelerating hypothesis generation, improving model fitting within ambiguous density regions (poorly resolved areas of cryo-EM maps), and guiding mutagenesis strategies to probe dynamic conformational states. We also summarize recent method extensions: AlphaFold-Multimer improves multi-chain complex assembly prediction, while molecular dynamics (MD) simulations augment AlphaFold's static models by sampling conformational flexibility and testing stability. Despite these advances, important limitations remain-particularly for intrinsically disordered regions, protein-ligand and protein-cofactor interactions, and very large or transient assemblies-and current community benchmarks indicate that approximately one-third of residues may lack atomistic precision, underscoring uncertainty in flexible or modified segments. Framed within a clear chronological window and evidence base, our analysis highlights both the practical impact and the remaining challenges of integrating AlphaFold with experiment, outlining priorities where further methodological innovation and orthogonal validation are needed.",
+    "doi": "10.1007/s10930-025-10310-8",
+    "url": "https://doi.org/10.1007/s10930-025-10310-8",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "On the Completeness of Existing RNA Fragment Structures.",
+    "authors": [
+      "Hong X",
+      "Zhan J",
+      "Zhou Y"
+    ],
+    "journal": "Genomics, proteomics & bioinformatics",
+    "publication_date": "2025-Dec-18",
+    "abstract": "The success of protein structure prediction by the deep learning method AlphaFold 2 naturally raises the question whether similar success can be achieved for RNA structure prediction. One reason for the success in protein structure prediction is that the structural space of proteins, at the fragment to domain levels, has been nearly complete for many years. Here, we examined the completeness of RNA fragment structural space at the di-, tri-, tetra-, and penta-nucleotide levels. We show that the number of non-redundant structural fragments at the tetra- and penta-nucleotide levels is in the midst of exponential increase, suggesting that the structural space currently observed in RNA is far from complete. Thus, more concerted efforts are clearly needed to improve the speed and methods of experimental determination of RNA structures to go beyond the limited structural space observed in RNAs. Moreover, the reference frame made of three sugar-ring atoms near the base side (O4', C1', and C2') exhibits the least structural diversity among existing RNA structures, suggesting it as the most stable platform for building other parts of RNA structures.",
+    "doi": "10.1093/gpbjnl/qzaf127",
+    "url": "https://doi.org/10.1093/gpbjnl/qzaf127",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Data-driven enhanced sampling of mechanistic pathways.",
+    "authors": [
+      "Elangovan R",
+      "Chatterjee S",
+      "Ray D"
+    ],
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "publication_date": "2025-Dec-09",
+    "abstract": "The mechanisms of molecular processes can be characterized by following the minimum free energy pathway (MFEP) on the underlying multidimensional conformational landscapes. Despite recent advancements in enhanced sampling algorithms, obtaining a converged high-dimensional molecular free energy landscape remains a considerable challenge. To circumvent this issue, we employ a deep multitask learning algorithm that integrates deep neural networks with the established enhanced sampling method of well-tempered metadynamics to iteratively learn the MFEP between reactant and product conformations, without the knowledge of the underlying free energy landscape. Our approach improves upon existing pathway exploration algorithms by following a simpler protocol, thereby eliminating the need to identify intermediate structures along a guess path. From the learned pathway, an automatic reconstruction of a mechanistic fingerprint can be performed by following the sequence of events in the molecular process, allowing for a direct characterization of the molecular mechanism. We demonstrate applications of our algorithm to prototypical chemical reactions, protein folding, and ligand-receptor binding problems. Due to its low computational cost and overall simplicity, this framework is expected to find widespread applications in elucidating molecular mechanisms at all-atom resolution.",
+    "doi": "10.1073/pnas.2517169122",
+    "url": "https://doi.org/10.1073/pnas.2517169122",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Engineering mammalian protein secretion: Toward the convergence of high-throughput biology and computational methods.",
+    "authors": [
+      "Gabrielli J",
+      "Lewis NE",
+      "Kontoravdi C",
+      "Ceroni F"
+    ],
+    "journal": "Cell systems",
+    "publication_date": "2025-Dec-17",
+    "abstract": "Protein secretion in mammalian cells is the active transport of proteins from the cytoplasm to the extracellular space. It plays a fundamental role in mammalian physiology and signaling, as well as biotherapeutics production and cell and gene therapies. The efficacy of protein secretion, however, is impacted by features of the secreted protein itself, and the host-cell machinery that supports each step of the secretion process. High-throughput techniques such as microfluidics, cell display, and cell encapsulation assays for the study and engineering of secreted proteins are transforming biomedical knowledge and our ability to modulate protein secretion. In addition, computational advances, including signal peptide modeling, whole-protein machine learning models, and genome-scale simulations, are opening new pathways for rational design of protein secretion. Here, we highlight recent developments in secretion engineering that are leading to the convergence of high-throughput experimentation and machine learning methods and can help address current challenges in bioproduction and support future efforts in cell and gene therapy while enabling new modalities.",
+    "doi": "10.1016/j.cels.2025.101424",
+    "url": "https://doi.org/10.1016/j.cels.2025.101424",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Starch branching enzyme: structure, key functional sites, and regulation of starch characteristics and rice qualities.",
+    "authors": [
+      "Ke M",
+      "Liu R",
+      "Wu R",
+      "Wei C"
+    ],
+    "journal": "Plant cell reports",
+    "publication_date": "2025-Dec-01",
+    "abstract": "Starch branching enzymes (BEs) play crucial roles in determining amylopectin structure, starch components, and ultimately, starch properties and crop quality. This review begins by outlining starch biosynthesis and its relationship with starch properties and rice qualities. We summarized the current understanding of the tertiary structure, catalytic mechanism, and key functional sites of BEs, encompassing catalytic residues, substrate-binding sites, and phosphorylation sites. The regulating BEIIb for modulating amylopectin chain length distribution, starch crystalline lamellar structure, starch granule morphology, starch gelatinization resistance, and starch resistance to enzymatic hydrolysis is reviewed. The regulatory impacts of BEIIb deficiency (via frameshift mutation or expression downregulation) and amino acid substitution on rice qualities are critically discussed. Finally, we proposed some future research directions, including: high-throughput screening and identification methods for BEIIb allelic mutants exhibiting a transparency endosperm, utilizing base editing technology to create novel elite BEIIb alleles, pyramiding multiple genes to develop novel rice germplasm rich in resistant starch while maintaining elite grain quality, especially for appearance quality and eating and cooking quality, and integrating AI and machine learning to predict regulation effects. This review not only enriches the theoretical framework concerning BEIIb-mediated regulation of starch components and rice qualities but also provides some specific molecular targets within BEIIb for targeted quality improvement strategies.",
+    "doi": "10.1007/s00299-025-03678-5",
+    "url": "https://doi.org/10.1007/s00299-025-03678-5",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Prediction of protein biophysical traits from limited data: a case study on nanobody thermostability through NanoMelt.",
+    "authors": [
+      "Ramon A",
+      "Ni M",
+      "Predeina O",
+      "Gaffey R",
+      "Kunz P",
+      "Onuoha S",
+      "Sormanni P"
+    ],
+    "journal": "mAbs",
+    "publication_date": "2025-Dec",
+    "abstract": "In-silico prediction of protein biophysical traits is often hindered by the limited availability of experimental data and their heterogeneity. Training on limited data can lead to overfitting and poor generalizability to sequences distant from those in the training set. Additionally, inadequate use of scarce and disparate data can introduce biases during evaluation, leading to unreliable model performances being reported. Here, we present a comprehensive study exploring various approaches for protein fitness prediction from limited data, leveraging pre-trained embeddings, repeated stratified nested cross-validation, and ensemble learning to ensure an unbiased assessment of the performances. We applied our framework to introduce NanoMelt, a predictor of nanobody thermostability trained with a dataset of 640 measurements of apparent melting temperature, obtained by integrating data from the literature with 129 new measurements from this study. We find that an ensemble model stacking multiple regression using diverse sequence embeddings achieves state-of-the-art accuracy in predicting nanobody thermostability. We further demonstrate NanoMelt's potential to streamline nanobody development by guiding the selection of highly stable nanobodies. We make the curated dataset of nanobody thermostability freely available and NanoMelt accessible as a downloadable software and webserver.",
+    "doi": "10.1080/19420862.2024.2442750",
+    "url": "https://doi.org/10.1080/19420862.2024.2442750",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Identification and Classification of Fungal GPCR Gene Families.",
+    "authors": [
+      "Liu Z",
+      "Salamov A",
+      "Grigoriev IV"
+    ],
+    "journal": "Journal of fungi (Basel, Switzerland)",
+    "publication_date": "2025-Dec-30",
+    "abstract": "G protein-coupled receptors (GPCRs) are transmembrane proteins crucial for signal transduction in eukaryotes, responding to diverse extracellular signals. Researchers have found and systematically summarized 14 distinct types of GPCRs in fungi but their distribution among numerous fungal species remained largely unexamined. Additionally, three families of mammalian homologs (Rhodopsin, Glutamate, and Frizzled) have been found in previous studies, but they are not included in the systematic classification of fungal GPCRs. Our study establishes a unified classification of 17 GPCR classes in fungi, combining 14 fungal and 3 mammalian previously recognized groups, and classifies 28,294 GPCRs across 1357 fungal species, significantly expanding the scale of GPCRs in fungi and demonstrating their broader distribution. We found that mammalian homologs are notably more prevalent in Early Diverging Fungi (EDF), whereas the previous 14 classes are predominantly found in Ascomycota and Basidiomycota. The most abundant class detected in fungi was Pth11-like GPCRs, exclusively found in Pezizomycotina and involved in fungal pathogenicity. Our analysis suggested that Pezizomycotina ancestor possessed an extensive array of Pth11-like GPCRs, but over time, some species underwent considerable reductions in these GPCRs in conjunction with genome contractions. Utilizing a custom-built convolutional neural network (CNN) for the identification of fungal GPCRs, we identified several putative novel fungal GPCRs. Predicted interactions between these prospective new GPCRs and G-alpha proteins, as simulated by AlphaFold Multimer, provided additional support for their functional relevance. In conclusion, our work defines the first large-scale, unified classification of fungal GPCRs, reveals lineage-specific expansions and contractions, and uncovers previously unrecognized GPCR candidates with potential functional roles in fungal signaling.",
+    "doi": "10.3390/jof12010030",
+    "url": "https://doi.org/10.3390/jof12010030",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Computational enzyme design by catalytic motif scaffolding.",
+    "authors": [
+      "Braun M",
+      "Tripp A",
+      "Chakatok M",
+      "Kaltenbrunner S",
+      "Fischer C",
+      "Stoll D",
+      "Bijelic A",
+      "Elaily W",
+      "Totaro MG",
+      "Moser M",
+      "Hoch SY",
+      "Lechner H",
+      "Rossi F",
+      "Aleotti M",
+      "Hall M",
+      "Oberdorfer G"
+    ],
+    "journal": "Nature",
+    "publication_date": "2026-Jan",
+    "abstract": "Enzymes find broad use as biocatalysts in industry and medicine owing to their exquisite selectivity, efficiency and mild reaction conditions. Custom-designed enzymes can produce tailor-made biocatalysts with potential applications that extend beyond natural reactions. However, current design methods require testing a large number of designs and mostly produce de novo enzymes with low catalytic activities",
+    "doi": "10.1038/s41586-025-09747-9",
+    "url": "https://doi.org/10.1038/s41586-025-09747-9",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Material-binding peptides: sources, mechanisms, directed evolution and applications.",
+    "authors": [
+      "Chen H",
+      "Gao YT",
+      "Ge XZ",
+      "Wang X",
+      "Cheng F",
+      "Xue YP",
+      "Zheng YG"
+    ],
+    "journal": "Biotechnology advances",
+    "publication_date": "2026",
+    "abstract": "Material-binding peptides (MBPs) can specifically bind to materials under mild conditions, such as room temperature and aqueous environments, thereby offering promising applications in both biotechnology and materials science. Recent advances in screening techniques, including phage display, bacterial display, and proteomics-based methods, combined with innovations in protein engineering and machine learning, have significantly accelerated the discovery and optimization of MBPs. These peptides have been successfully applied in areas such as catalyst immobilization (biocatalysis), biodegradation, and biomimetic mineralization. This review provides a comprehensive synthesis of the state-of-the-art in MBP research. It begins by discussing the sources of MBPs and the engineering strategies used to enhance their performance, then delves into the molecular mechanisms underlying their material interactions, and finally examines their emerging industrial applications. The review aims to guide researchers through current screening methodologies, provide mechanistic insights, and explore practical applications, offering a roadmap for future advancements in the field.",
+    "doi": "10.1016/j.biotechadv.2025.108742",
+    "url": "https://doi.org/10.1016/j.biotechadv.2025.108742",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Accurate single-domain scaffolding of three nonoverlapping protein epitopes using deep learning.",
+    "authors": [
+      "Castro KM",
+      "Watson JL",
+      "Wang J",
+      "Southern J",
+      "Ayardulabi R",
+      "Georgeon S",
+      "Rosset S",
+      "Baker D",
+      "Correia BE"
+    ],
+    "journal": "Nature chemical biology",
+    "publication_date": "2025-Dec-05",
+    "abstract": "De novo protein design has seen major success in scaffolding single functional motifs; however, in nature, most proteins present multiple functional sites. Here, we describe an approach to simultaneously scaffold multiple functional sites in a single-domain protein using deep learning. We designed small single-domain immunogens, under 130 residues, that present three distinct and irregular motifs from respiratory syncytial virus. These motifs together comprise nearly half of the designed proteins; hence, the overall folds are quite unusual with little global similarity to proteins in the Protein Data Bank. Despite this, X-ray crystal structures confirmed the accuracy of presentation of each of the motifs and the multiepitope design yields improved cross-reactive titers and neutralizing response compared to a single-epitope immunogen. The successful presentation of three distinct binding surfaces in a small single-domain protein highlights the power of generative deep learning methods to solve complex protein design problems.",
+    "doi": "10.1038/s41589-025-02083-z",
+    "url": "https://doi.org/10.1038/s41589-025-02083-z",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Predicting epistasis across proteins by structural logic.",
+    "authors": [
+      "Tang M",
+      "Cromie GA",
+      "Kabir A",
+      "Timour MS",
+      "Ashmead J",
+      "Lo RS",
+      "Corley N",
+      "DiMaio F",
+      "Morizono H",
+      "Caldovic L",
+      "Ah Mew N",
+      "Gropman A",
+      "Shehu A",
+      "Dudley AM"
+    ],
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "publication_date": "2026-Jan-20",
+    "abstract": "Accurately predicting the phenotypic consequences of genetic variation is a major challenge for precision medicine. The problem is exacerbated by epistatic interactions, nonadditive effects between genetic variants that produce unexpected phenotypes. Here, we explore an understudied form of positive epistasis: intragenic complementation, in which pairs of loss-of-function variants restore near wild-type protein function. Using mutational scanning in yeast, we identify thousands of such interactions in a clinically important enzyme, human argininosuccinate lyase (ASL). Restoration of protein function is not due to the biochemical properties of the substituted amino acids, but rather to a structural feature of the protein, the active site assembly. We develop a machine learning algorithm that uses protein language model embeddings to predict intragenic complementation in ASL with 99.6% accuracy. Additionally, the model trained on ASL generalizes to a structurally related but sequence-divergent enzyme, fumarase, with accuracy over 90%. Our findings reveal a structural basis for this form of epistasis and provide a predictive framework that could extend to at least 4% of human proteins.",
+    "doi": "10.1073/pnas.2516291123",
+    "url": "https://doi.org/10.1073/pnas.2516291123",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Mechanism of Ag",
+    "authors": [
+      "Blanc FEC",
+      "Hologne M",
+      "Girod M",
+      "Demontrond M",
+      "Chermette H",
+      "Walker O"
+    ],
+    "journal": "The journal of physical chemistry letters",
+    "publication_date": "2026-Feb-10",
+    "abstract": "Interactions between proteins and metal cations are central to biochemical processes and shape protein structures. SilE, an intrinsically disordered protein involved in bacterial silver resistance, folds into α-helices upon binding Ag",
+    "doi": "10.1021/acs.jpclett.6c00044",
+    "url": "https://doi.org/10.1021/acs.jpclett.6c00044",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Monoclonal antibodies production in microbial systems: Current status, challenges and perspectives.",
+    "authors": [
+      "Zhang D",
+      "Liu H",
+      "Zhong Y"
+    ],
+    "journal": "New biotechnology",
+    "publication_date": "2025-Dec-25",
+    "abstract": "Monoclonal antibodies (mAbs) serve as indispensable tools in diagnostics, clinical therapeutics, and biomedical research. However, their large-scale production faces significant challenges due to the high costs and lengthy timelines associated with conventional mammalian cell-based expression systems. Microbial expression platforms have emerged as a transformative alternative, offering cost-effectiveness, rapid cultivation cycles, and superior genetic tractability for industrial-scale monoclonal antibodies production. Recent advances in Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR)/Cas9-mediated gene editing enable precise metabolic engineering of host strains to enhance protein folding, secretion efficiency, and translational accuracy. Synthetic biology approaches facilities the reconstruction of mammalian glycosylation pathways in microbial systems, yielding monoclonal antibodies with near-native structural integrity. Furthermore, AI (artificial intelligence)-driven optimization of expression vectors, promoter systems, and culture conditions, combined with high-throughput screening of engineered strains, significantly accelerates the identification of high-yield production clones. This review comprehensively examines current progress in microbial expression systems, strain engineering strategies, and fermentation optimization for enhanced monoclonal antibodies production, while critically discussing existing limitations and potential solutions to advance the field.",
+    "doi": "10.1016/j.nbt.2025.10.005",
+    "url": "https://doi.org/10.1016/j.nbt.2025.10.005",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "SwinSite: 3D Structure-Based Prediction of Protein-Ligand Binding Sites Using a Combined Vision Transformer and Convolution Model.",
+    "authors": [
+      "Kim D",
+      "Lee J"
+    ],
+    "journal": "Journal of chemical information and modeling",
+    "publication_date": "2026-Feb-20",
+    "abstract": "Accurate identification of protein-ligand binding sites is an essential step in structure-based drug discovery. Herein, we present SwinSite, a deep learning framework that leverages a hybrid architecture combining 3D convolutional neural networks and hierarchical vision transformer modules to predict ligand binding sites based on a 3D structure of a target protein. SwinSite encodes spatial information by voxelizing a protein structure into 3D grids centered around surface residues, allowing for a detailed spatial representation of the protein's surface environment. By combining local feature extraction with hierarchical self-attention via shifted windows, SwinSite effectively captures both fine-grained geometric features and long-range dependencies. Evaluations on multiple benchmark data sets demonstrate that SwinSite outperforms existing CNN- and GNN-based ligand binding site detection methods consistently, highlighting its robustness and generalization ability.",
+    "doi": "10.1021/acs.jcim.5c02734",
+    "url": "https://doi.org/10.1021/acs.jcim.5c02734",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Deep Learning-Based Prediction of Enzyme Optimal pH and Design of Point Mutations to Improve Acid Resistance.",
+    "authors": [
+      "Qiu S",
+      "Wang NK",
+      "Lu Y",
+      "Gong JS",
+      "Shi JS",
+      "Yang A"
+    ],
+    "journal": "ACS synthetic biology",
+    "publication_date": "2025-Dec-19",
+    "abstract": "An accurate deep learning predictor of enzyme optimal pH is essential to quantitatively describe how pH influences the enzyme catalytic activity. CatOpt, developed in this study, outperformed existing predictors of enzyme optimal pH (RMSE = 0.833 and ",
+    "doi": "10.1021/acssynbio.5c00679",
+    "url": "https://doi.org/10.1021/acssynbio.5c00679",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Geometric deep learning assists protein engineering. Opportunities and Challenges.",
+    "authors": [
+      "García-Vinuesa J",
+      "Rojas J",
+      "Soto-García N",
+      "Martínez N",
+      "Alvarez-Saravia D",
+      "Uribe-Paredes R",
+      "Davari MD",
+      "Conca C",
+      "Asenjo JA",
+      "Medina-Ortiz D"
+    ],
+    "journal": "Biotechnology advances",
+    "publication_date": "2026",
+    "abstract": "Protein engineering is experiencing a paradigmatic transformation through the integration of geometric deep learning (GDL) into computational design workflows. While traditional approaches such as rational design and directed evolution have achieved significant progress, they remain constrained by the vastness of sequence space and the cost of experimental validation. GDL overcomes these limitations by operating on non-Euclidean domains and by capturing the spatial, topological, and physicochemical features that govern protein function. This perspective provides a comprehensive and critical overview of GDL applications in stability prediction, functional annotation, molecular interaction modeling, and de novo protein design. It consolidates methodological principles, architectural diversity, and performance trends across representative studies, emphasizing how GDL enhances interpretability and generalization in protein science. Aimed at both computational method developers and experimental protein engineers, the review bridges algorithmic concepts with practical design considerations, offering guidance on data representation, model selection, and evaluation strategies. By integrating explainable artificial intelligence and structure-based validation within a unified conceptual framework, this work highlights how GDL can serve as a foundation for transparent, interpretable, and autonomous protein design. As GDL converges with generative modeling, molecular simulation, and high-throughput experimentation, it is poised to become a cornerstone technology for next-generation protein engineering and synthetic biology.",
+    "doi": "10.1016/j.biotechadv.2025.108790",
+    "url": "https://doi.org/10.1016/j.biotechadv.2025.108790",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "From traditional to AI-driven: The evolution of intelligent enzyme engineering for biocatalysis.",
+    "authors": [
+      "Lv F",
+      "Zhang J",
+      "You S",
+      "Qi W"
+    ],
+    "journal": "Biotechnology advances",
+    "publication_date": "2026",
+    "abstract": "Enzyme engineering involves enhancing enzyme function and application through multidimensional technological systems. Its development encompasses elucidating sequence-structure-function relationships, exploring fitness landscapes, and multiscale regulation. Conventional enzyme engineering strategies include directed evolution (DE), rational/semi-rational design, residue co-evolution, and de novo design. DE mimics natural selection but is limited by high-throughput screening efficiency. Rational/semi-rational design integrates computational simulation with experimental validation to regulate enzyme performance. Residue co-evolution combines sequence co-evolution analysis and kinetic simulations, and de novo design is dedicated to achieving precise protein folding through physical modeling. In recent years, the breakthrough progress in machine learning (ML), especially deep learning (DL), has significantly enhanced the efficiency of all the above-mentioned methods; by accurately predicting mutational effects and efficiently exploring discontinuous sequence space, it provides powerful tools to improve or supplement the above strategies, thereby aiding in escaping local fitness optima traps. This review summarizes common strategies in enzyme engineering, including directed evolution, rational/semi-rational design, residue co-evolution, and de novo design, and further introduces the latest applications of ML and DL models in each of these fields. Although challenges persist, such as force field accuracy limitations, mutation sampling constraints, experimental throughput limitations, and epistatic effects, more comprehensive multimodal foundation models in the future are expected to integrate cross-scale parameters for intelligent design, and the establishment of standardized enzymology databases will enhance prediction reliability. Overall, AI-empowered enzyme engineering will drive a profound transformation toward a predictable and highly efficient pathway for enzyme design, providing more precise and powerful solutions for biocatalysis.",
+    "doi": "10.1016/j.biotechadv.2025.108788",
+    "url": "https://doi.org/10.1016/j.biotechadv.2025.108788",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Protein structure-informed bacteriophage genome annotation with Phold.",
+    "authors": [
+      "Bouras G",
+      "Grigson SR",
+      "Mirdita M",
+      "Heinzinger M",
+      "Papudeshi B",
+      "Mallawaarachchi V",
+      "Green R",
+      "Kim RS",
+      "Mihalia V",
+      "Psaltis AJ",
+      "Wormald PJ",
+      "Vreugde S",
+      "Steinegger M",
+      "Edwards RA"
+    ],
+    "journal": "Nucleic acids research",
+    "publication_date": "2026-Jan-05",
+    "abstract": "Bacteriophage (phage) genome annotation is essential for understanding their functional potential and suitability for use as therapeutic agents. Here, we introduce Phold, an annotation framework utilizing protein structural information that combines the ProstT5 protein language model and structural alignment tool Foldseek. Phold assigns annotations using a database of over 1.36 million predicted phage protein structures with high-quality functional labels. Benchmarking reveals that Phold outperforms existing sequence-based homology approaches in functional annotation sensitivity whilst maintaining speed, consistency, and scalability. Applying Phold to diverse cultured and metagenomic phage genomes shows it consistently annotates over 50% of genes on an average phage and 40% on an average archaeal virus. Comparisons of phage protein structures to other protein structures across the tree of life reveal that phage proteins commonly have structural homology to proteins shared across the tree of life, particularly those that have nucleic acid metabolism and enzymatic functions. Phold is available as free and open-source software at https://github.com/gbouras13/phold.",
+    "doi": "10.1093/nar/gkaf1448",
+    "url": "https://doi.org/10.1093/nar/gkaf1448",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Multimodal diffusion for joint design of protein sequence and structure.",
+    "authors": [
+      "Zhu S",
+      "Gulati S",
+      "Liu Y",
+      "Kotnis S",
+      "Sun Q",
+      "Shen Y"
+    ],
+    "journal": "Protein science : a publication of the Protein Society",
+    "publication_date": "2025-Dec",
+    "abstract": "Computational design of functional proteins is of both fundamental and applied interest. This study introduces a generative framework for co-designing protein sequence and structure in a unified process by modeling their joint distribution, with the goal of enabling cross-modality interactions toward coherent and functional designs. Each residue is represented by three distinct modalities (type, position, and orientation) and modeled using dedicated diffusion processes: multinomial for types, Cartesian for positions, and special orthogonal group SO(3) for orientations. To couple these modalities, we propose a unified architecture, ReverseNet, which employs a shared graph attention encoder to integrate multimodal information and separate projectors to predict each modality. We benchmark our models, JointDiff and JointDiff-x, on unconditional monomer design and conditional motif scaffolding tasks. Compared to two-stage design models that generate sequence and structure separately, our models produce monomer structures with comparable or better designability, while currently lagging in sequence quality and motif scaffolding performance based on computational metrics. However, they are 1-2 orders of magnitude faster and support rapid iterative improvements through classifier-guided sampling. To complement computational evaluations, we experimentally validate our approach through a case study on green fluorescent protein (GFP) design. Several novel, evolutionarily distant variants generated by our models exhibit measurable fluorescence, confirming functional activity. These results demonstrate the feasibility of joint sequence-structure generation and establish a foundation to accelerate functional protein design in future applications. Codes, data, and trained models are accessible at https://github.com/Shen-Lab/JointDiff.",
+    "doi": "10.1002/pro.70340",
+    "url": "https://doi.org/10.1002/pro.70340",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Machine learning-based development of Gadolinium binding peptides.",
+    "authors": [
+      "Dayan NA",
+      "Long M",
+      "Scalzitti N",
+      "Miralavy I",
+      "Holmes D",
+      "Kocherovsky M",
+      "Banzhaf W",
+      "Gilad AA"
+    ],
+    "journal": "bioRxiv : the preprint server for biology",
+    "publication_date": "2025-Dec-16",
+    "abstract": "Gadolinium-based contrast agents (GBCAs) are indispensable tools in magnetic resonance imaging (MRI), yet their clinical use is limited by non-specific tissue accumulation, low molecular specificity, and safety concerns. Protein and peptide scaffolds provide a promising alternative because they can bind metal ions with high selectivity and enable precise molecular targeting. However, identifying short peptide motifs with optimal gadolinium (Gd",
+    "doi": "10.64898/2025.12.14.694215",
+    "url": "https://doi.org/10.64898/2025.12.14.694215",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Advances in biomimetic carbonic anhydrase strategies for CO",
+    "authors": [
+      "Fedai M",
+      "Shen J",
+      "Bognár Z",
+      "Kwansa AL",
+      "Grunden A",
+      "Helveg S",
+      "Salmon S",
+      "Yingling YG"
+    ],
+    "journal": "Trends in biotechnology",
+    "publication_date": "2025-Dec",
+    "abstract": "Carbonic anhydrase (CA) enzymes hold strong potential in new biotechnological strategies for accelerated CO",
+    "doi": "10.1016/j.tibtech.2025.05.025",
+    "url": "https://doi.org/10.1016/j.tibtech.2025.05.025",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "A Review of Topological Data Analysis and Topological Deep Learning in Molecular Sciences.",
+    "authors": [
+      "Wee J",
+      "Jiang J"
+    ],
+    "journal": "Journal of chemical information and modeling",
+    "publication_date": "2025-Dec-08",
+    "abstract": "Topological data analysis (TDA) has emerged as a powerful framework for extracting robust, multiscale, and interpretable features from complex molecular data for artificial intelligence (AI) modeling and topological deep learning (TDL). This review provides a comprehensive overview of the development, methodologies, and applications of TDA in molecular sciences. We trace the evolution of TDA from early qualitative tools to advanced quantitative and predictive models, highlighting innovations such as persistent homology, persistent Laplacians, and topological machine learning. The paper explores TDA's transformative impact across diverse domains, including biomolecular stability, protein-ligand interactions, drug discovery, materials science, topological sequence analysis, and viral evolution. Special attention is paid to recent advances in integrating TDA with machine learning and AI, enabling breakthroughs in protein engineering, solubility, and toxicity prediction, and the discovery of novel materials and therapeutics. We also discuss the limitations of current TDA approaches and outline future directions, including the integration of TDA with advanced AI models and the development of new topological invariants. This review aims to serve as a foundational reference for researchers seeking to harness the power of topology in molecular sciences.",
+    "doi": "10.1021/acs.jcim.5c02266",
+    "url": "https://doi.org/10.1021/acs.jcim.5c02266",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Illuminating the universe of enzyme catalysis in the era of artificial intelligence.",
+    "authors": [
+      "Yang J",
+      "Li FZ",
+      "Long Y",
+      "Arnold FH"
+    ],
+    "journal": "Cell systems",
+    "publication_date": "2026-Feb-18",
+    "abstract": "Scientific research has revealed only a minuscule fraction of the enzymes that evolution has generated to power life's essential chemical reactions-and an even tinier fraction of the vast universe of possible enzymes. Beyond the enzymes already annotated lie an astronomical number of biocatalysts that could enable sustainable chemical production, degrade toxic pollutants, and advance disease diagnosis and treatment. For the past few decades, directed evolution has been a powerful strategy for reshaping enzymes to access new chemical transformations: by harnessing nature's existing diversity as a starting point and taking inspiration from nature's most powerful design process, evolution, to modify enzymes incrementally. Recently, artificial intelligence (AI) methods have started revolutionizing how we understand and compose the language of life. In this perspective, we discuss a vision for AI-driven enzyme discovery to unveil a world of enzymes that transcends biological evolution and perhaps offers a route to genetically encoding almost any chemistry.",
+    "doi": "10.1016/j.cels.2025.101372",
+    "url": "https://doi.org/10.1016/j.cels.2025.101372",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Deep learning and generative artificial intelligence methods in enzyme and cell engineering.",
+    "authors": [
+      "Docter S",
+      "David B",
+      "Gohlke H"
+    ],
+    "journal": "Current opinion in biotechnology",
+    "publication_date": "2026-Feb",
+    "abstract": "Efficient enzymes and microbial factories are essential to promote the transition toward a sustainable bioeconomy. This review focuses on the progress of artificial intelligence (AI) methods in accelerating the development of optimized biocatalysts and genetic networks in cells. Recent advances in AI in the field of enzyme discovery, engineering, and de novo design are discussed. Additionally, we highlight examples of successful applications of AI in optimizing different components in cells, from gene expression regulation to metabolic pathway optimization and design. Finally, this review emphasizes the challenges limiting the reliability and generalizability of current AI methods.",
+    "doi": "10.1016/j.copbio.2025.103393",
+    "url": "https://doi.org/10.1016/j.copbio.2025.103393",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "OrthoML2GO: homology-based protein function prediction using orthogroups and machine learning.",
+    "authors": [
+      "Malyugin EV",
+      "Afonnikov DA"
+    ],
+    "journal": "Vavilovskii zhurnal genetiki i selektsii",
+    "publication_date": "2025-Dec",
+    "abstract": "In recent years, the rapid growth of sequencing data has exacerbated the problem of functional annotation of protein sequences, as traditional homology-based methods face limitations when working with distant homologs, making it difficult to accurately determine protein functions. This paper introduces the OrthoML2GO method for protein function prediction, which integrates homology searches using the USEARCH algorithm, orthogroup analysis based on OrthoDB version 12.0, and a machine learning algorithm (gradient boosting). A key feature of our approach is the use of orthogroup information to account for the evolutionary and functional similarity of proteins and the application of machine learning to refine the assigned GO terms for the target sequence. To select the optimal algorithm for protein annotation, the following approaches were applied sequentially: the k-nearest neighbors (KNN) method; a method based on the annotation of the orthogroup most represented in the k-nearest homologs (OG); a method of verifying the GO terms identified in the previous stage using machine learning algorithms. A comparison of the prediction accuracy of GO terms using the OrthoML2GO method with the Blast2GO and PANNZER2 annotation programs was performed on sequence samples from both individual organisms (humans, Arabidopsis) and a combined sample represented by different taxa. Our results demonstrate that the proposed method is comparable to, and by some evaluation metrics outperforms, these existing methods in terms of the quality of protein function prediction, especially on large and heterogeneous samples of organisms. The greatest performance improvement is achieved by combining information about the closest homologs and orthogroups with verification of terms using machine learning methods. Our approach demonstrates high performance for large-scale automatic protein annotation, and prospects for further development include optimizing machine learning model parameters for specific biological tasks and integrating additional sources of structural and functional information, which will further improve the method's accuracy and versatility. In addition, the introduction of new bioinformatics tools and the expansion of the annotated protein database will contribute to the further improvement of the proposed approach.",
+    "doi": "10.18699/vjgb-25-119",
+    "url": "https://doi.org/10.18699/vjgb-25-119",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Developing student proficiency in ChatGPT-driven active recall practices and self-guided inquiry.",
+    "authors": [
+      "Dirks-Naylor AJ"
+    ],
+    "journal": "Advances in physiology education",
+    "publication_date": "2025-Dec-01",
+    "abstract": "Artificial intelligence (AI) tools like ChatGPT offer new opportunities to enhance student learning through active recall and self-directed inquiry. This study aimed to determine student perceptions of a classroom assignment designed to develop proficiency in using ChatGPT for these strategies. First-semester Doctor of Pharmacy students in a foundational sciences course completed an assignment using ChatGPT for active recall. The assignment involved generating quizzes from lecture notes on protein structure and apoptosis, verifying ChatGPT's answers, and engaging in further inquiry. Students completed a Qualtrics survey assessing their perceptions. Nearly 60% of students had no prior ChatGPT experience, and only 21% had used it for previous quizzing purposes. Most (96%) found the instructions for the assignment clear, and 89% reported that ChatGPT was easy to use. The majority believed ChatGPT quizzes were as effective as instructor-provided quizzes. All students agreed that verifying ChatGPT's answers with lecture notes was a valuable learning experience. Open-ended responses highlighted the ease of generating additional questions and exploring concepts at higher cognitive levels, though some noted challenges with crafting precise prompts and verifying answers. Although many students were new to ChatGPT, the structured assignment improved their comfort with and understanding of the platform's capabilities and limitations when used for active recall and critical inquiry. The integration of AI tools, when guided and purposeful, can enrich traditional learning methods and support student engagement and deeper understanding of biological concepts in pharmacy education.",
+    "doi": "10.1152/advan.00112.2025",
+    "url": "https://doi.org/10.1152/advan.00112.2025",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Learning Protein Structure Representation with Orientation-Aware Networks.",
+    "authors": [
+      "Li J",
+      "Luo S",
+      "Deng C",
+      "Cheng C",
+      "Guan J",
+      "Guibas L",
+      "Peng J",
+      "Ma J"
+    ],
+    "journal": "Journal of computational biology : a journal of computational molecular cell biology",
+    "publication_date": "2026-Jan",
+    "abstract": "The intricate three-dimensional structures of proteins dictate their diverse biological functions. Accurately representing these structures, particularly the fine-grained orientational relationships between amino acids, is crucial for understanding protein mechanisms and practical computational protein analysis. Current methodologies often fall short in capturing these essential geometric details. We introduce Orientation-Aware Graph Neural Networks (OA-GNNs), a novel deep learning framework that explicitly models local and global geometric characteristics, including inner-residue torsion angles and inter-residue orientations. OA-GNNs achieve this by uniquely extending neural network weights from scalars to 3D directed weights and by implementing an equivariant message passing paradigm that ensures SO(3)-equivariance. This approach allows for a richer, more geometrically meaningful processing of protein structural data. Comprehensive experiments demonstrate that OA-GNNs significantly outperform existing methods in sensing orientational features and achieve state-of-the-art performance across diverse computational biology tasks, including residue identification, computational protein design, model quality assessment, and protein function classification. Our findings highlight the power of orientation-aware learning and establish OA-GNNs as a versatile and robust tool for advancing our understanding of protein structure-function relationships and for developing new therapeutic and biotechnological solutions. The code is available at https://github.com/Ced3-han/OAGNN/tree/main.",
+    "doi": "10.1177/15578666251406300",
+    "url": "https://doi.org/10.1177/15578666251406300",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "The Evolving Role of Artificial Intelligence in Medical Genetics: Advancing Healthcare, Research, and Biosafety Management.",
+    "authors": [
+      "Wu YC",
+      "Tuo N",
+      "Shi G",
+      "Li K",
+      "Song Z",
+      "Li Y"
+    ],
+    "journal": "Genes",
+    "publication_date": "2025-Dec-19",
+    "abstract": "The integration of artificial intelligence (AI) with medical genetics is transforming healthcare by addressing the analytical challenges posed by the vast complexity of multi-omics data. This review explores the synergistic convergence of these fields, highlighting AI's transformative role in enhancing diagnostic precision, enabling non-invasive molecular profiling through imaging-genetics, and advancing predictive and personalized medicine via polygenic risk scores and pharmacogenomics. AI is also emerging as a powerful generative tool in therapeutic design, accelerating drug discovery, protein engineering, and precision gene editing. However, this powerful synergy introduces significant ethical, regulatory, and biosecurity challenges, including data privacy, algorithmic bias, and the dual-use risks of AI-enabled genetic engineering. The future envisions a responsible co-evolution, with multimodal AI and the concept of the Digital Twin driving precision medicine, underpinned by interdisciplinary collaboration to ensure fairness, transparency, and societal trust. This article charts the current landscape and proposes actionable directions, emphasizing the need for robust governance to harness AI's potential while mitigating its risks for the benefit of human health.",
+    "doi": "10.3390/genes17010006",
+    "url": "https://doi.org/10.3390/genes17010006",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "The role of bioinformatics algorithms in modern biopharmaceutical design: Progress, challenges, and future perspectives.",
+    "authors": [
+      "Pourseif MM",
+      "Baradaran Hosseini SA",
+      "Khoshraftar SH",
+      "Omidi Y"
+    ],
+    "journal": "BioImpacts : BI",
+    "publication_date": "2025",
+    "abstract": "Bioinformatics algorithms empowered by artificial intelligence (AI), machine learning (ML), and deep learning (DL) are revolutionizing biopharmaceutical design and development. These methods accelerate discovery through rapid in silico prediction of protein structure, function, and immunogenicity, reducing experimental cost and time. Generative and hybrid frameworks, especially those combining AI with physics-informed neural networks (PINNs), enable interpretable, mechanism-aware modeling for enzyme kinetics and protein engineering. Multi-omics integration and graph-based network algorithms support systems-level understanding of therapeutic targets. Despite remarkable progress, challenges persist, including limited data for novel modalities, interpretability gaps, and computational scalability. Recent advances such as AlphaFold 3, OpenFold, and NeuralPlexer, alongside evolving FDA and EMA guidelines for AI-derived therapeutics, are helping bridge innovation and clinical translation. The future of drug discovery will rely on synergistic human-algorithm collaboration to ensure responsible, reproducible, and clinically relevant biopharmaceutical innovation.",
+    "doi": "10.34172/bi.33072",
+    "url": "https://doi.org/10.34172/bi.33072",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Advances in MS-based glycomics for biomedical research.",
+    "authors": [
+      "Solomon J",
+      "Sanni A",
+      "Purba W",
+      "Oluokun O",
+      "Sahioun S",
+      "Fowowe M",
+      "Oluokun A",
+      "Hussein A",
+      "Mechref Y"
+    ],
+    "journal": "Analytical methods : advancing methods and applications",
+    "publication_date": "2026-Jan-22",
+    "abstract": "Glycosylation is a highly complex and functionally diverse post-translational modification that modulates protein folding, stability, cell signaling, and immune response. Aberrant glycosylation is associated with numerous diseases, including cancer, neurodegenerative disorders, and infections, making glycans attractive targets for biomarker discovery and therapeutic development. Mass spectrometry (MS) has become a widely used analytical tool, for glycomics analysis due to its high sensitivity, specificity, and structural resolution. This review highlights advances in MS-based glycomics, encompassing sample preparation, ionization techniques, and fragmentation strategies. Quantitative strategies, including stable isotope labeling, isobaric tagging, and label-free approaches, are also examined for their roles in precise glycan quantification. The review also explores bioinformatics tools and the growing integration of artificial intelligence and machine learning for glycan structure prediction and data interpretation.",
+    "doi": "10.1039/d5ay01169h",
+    "url": "https://doi.org/10.1039/d5ay01169h",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Possibilities and limitations of artificial intelligence in food-derived peptides.",
+    "authors": [
+      "Zhao C",
+      "He Z",
+      "Ashaolu TJ"
+    ],
+    "journal": "Journal of the science of food and agriculture",
+    "publication_date": "2026-Feb",
+    "abstract": "The deep integration of artificial intelligence (AI) with research on food-derived peptides (FDPs) signifies a paradigm shift towards intelligent precision design and functional optimization in developing FDP products. Random forests, convolutional neural networks and other machine learning and deep learning technologies have markedly expedited bioactive peptide discovery, functional characterization and structure-activity relationship elucidation, while their comprehensive application confronts critical challenges encompassing dataset integrity, model architecture optimization, interpretability constraints and experimental verification requirements. Consequently, a comprehensive understanding of the existing limitations and future opportunities of AI technology in the field of FDPs is required. This review evaluates traditional methodologies and AI applications in FDP research, addressing current limitations and prospects. AI faces several challenges in predicting complex protein structures and FDPs. Dimensionality curse and local optima during protein structure prediction reduce accuracy. In FDP prediction, the selection of amino acid descriptors limits model stability. Additionally, the scarcity of FDP datasets leads to accuracy reduction in AI model training and introduces class distribution bias. Traditional cross-entropy loss further exacerbates class distribution skew. These issues collectively constrain the application of AI in FDP prediction. AI enhances peptide screening efficiency through large-scale data processing, reducing research costs. Standardized multidimensional databases integrated with heterogeneous AI architectures improve predictive model accuracy and cross-domain adaptability. Computational visualization frameworks elucidate bioactive determinants and quantitative structure-activity relationships. Metabolomic-gut microbiota interdisciplinary strategies enable the precision design of bioactive peptides for personalized nutrition. AI-optimized enzymatic hydrolysis processes and high-throughput validation platforms advance mechanistic understanding and industrial production, despite the persisting challenges. © 2025 Society of Chemical Industry.",
+    "doi": "10.1002/jsfa.70099",
+    "url": "https://doi.org/10.1002/jsfa.70099",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Advances and critical evaluation of autonomous protein engineering: towards transparent, accessible, and reproducible platforms.",
+    "authors": [
+      "Weigmann KF",
+      "Bornscheuer UT",
+      "Doerr M"
+    ],
+    "journal": "Current opinion in biotechnology",
+    "publication_date": "2026-Feb",
+    "abstract": "Protein engineering aims to enhance enzymatic properties such as activity, selectivity, stability, and solvent tolerance by restructuring protein frameworks beyond natural performance limits. This process relies on the iterative Design-Build-Test-Learn cycle, where experimental feedback guides progressive improvements. Advancements in artificial intelligence have transformed both the Design and Learn phases, with zero-shot protein language models predicting beneficial mutations directly from sequence data and supervised models integrating assay results to refine subsequent variant designs. These approaches reduce the dependence on structural insights while enabling the discovery of synergistic effects across mutations. Automation technologies, including robotic liquid handlers and integrated platforms, have become central to modern protein engineering by reducing errors, ensuring reproducibility, and enabling large-scale variant screening. Emerging autonomous platforms demonstrate closed-loop optimization that couples protein library design, automated plasmid transformation/protein expression and corresponding assays, and machine learning-driven decision-making. These systems achieve significant accelerations in the research process, reducing multi-round engineering cycles from months to days while successfully improving diverse proteins/enzymes to a targeted objective. Beyond single-lab platforms, orchestration frameworks adhering to FAIR data principles and leveraging knowledge graphs promise distributed 'self-driving' laboratories capable of coordinating workflows across facilities. While high setup costs and proprietary systems remain challenging, open-source and modular alternatives highlight a path toward transparent, flexible automation. Collectively, these innovations are redefining protein engineering as an increasingly autonomous, data-driven discipline.",
+    "doi": "10.1016/j.copbio.2025.103395",
+    "url": "https://doi.org/10.1016/j.copbio.2025.103395",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Deep Batch Active Learning for Protein Structure Modeling.",
+    "authors": [
+      "Xue Z",
+      "Bailey M",
+      "Gupta A",
+      "Li R",
+      "Corrochano-Navarro A",
+      "Li S",
+      "Kogler-Anele L",
+      "Yu Q",
+      "Rommelaere H",
+      "Van Breedam W",
+      "Furtmann N",
+      "Batchelor J",
+      "Bar-Joseph Z",
+      "Jager S"
+    ],
+    "journal": "Journal of computational biology : a journal of computational molecular cell biology",
+    "publication_date": "2026-Jan",
+    "abstract": "Molecular structure prediction is essential for understanding therapeutic functions and accelerating pharmaceutical research. While state-of-the-art deep learning models like AlphaFold demonstrate strong performance on general protein backbone prediction, they struggle with critical regions of VHH antibodies, a novel family of molecules underrepresented in current training datasets. Many academic and industry laboratories can generate high-quality VHH structures for novel sequences, presenting an opportunity to improve model performance through iterative fine-tuning with strategically selected new data. However, experimental structure determination requires weeks to months of effort and significant costs per structure, making exhaustive data collection impractical. Randomly curating subset of full collection yields suboptimal improvements, as many structures provide redundant information while key regions remain unexplored. Strategic data selection can identify which structures, once experimentally determined, will maximally improve prediction accuracy, enabling superior model performance with fewer iterations and lower costs. We propose DEWDROP, an active learning selection method that guides VHH structure curation to maximally improve fine-tuned model performance. DEWDROP leverages Monte Carlo dropout to generate prediction ensembles that inform optimal data selection. While we focus on VHH antibodies, underrepresentation issues affect many molecular domains, making DEWDROP broadly applicable as a model-agnostic method for structural biology applications. To demonstrate this effectiveness, we evaluate our approach through retrospective iterative fine-tuning experiments and batch selection analysis on two distinct structural families: VHH antibodies from SAbDab-nano as our target application and primary benchmark and ",
+    "doi": "10.1177/15578666251405823",
+    "url": "https://doi.org/10.1177/15578666251405823",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Generalizable and scalable protein stability prediction with rewired protein generative models.",
+    "authors": [
+      "Li Z",
+      "Luo Y"
+    ],
+    "journal": "Nature communications",
+    "publication_date": "2025-Dec-20",
+    "abstract": "Predicting changes in protein thermostability caused by amino acid substitutions is essential for understanding human diseases and engineering proteins for practical applications. While recent protein generative models demonstrate impressive zero-shot performance in predicting various protein properties without task-specific training, their strong unsupervised prediction ability remains underexploited to improve protein stability prediction. We present SPURS, a deep learning framework that rewires and integrates two complementary protein generative models-a protein language model and an inverse folding model-and reprograms this unified framework for stability prediction through supervised fine-tuning on mega-scale thermostability data. SPURS delivers accurate, efficient, and scalable stability predictions and generalizes to unseen proteins and mutations. Beyond stability prediction, SPURS enables broad applications in protein informatics, including zero-shot identification of functional residues, improved low-N protein fitness prediction, and systematic dissection of stability-pathogenicity for human diseases. Together, these capabilities establish SPURS as a versatile tool for advancing protein stability prediction and protein engineering at scale.",
+    "doi": "10.1038/s41467-025-67609-4",
+    "url": "https://doi.org/10.1038/s41467-025-67609-4",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "ProteinDJ: A high-performance and modular protein design pipeline.",
+    "authors": [
+      "Silke D",
+      "Iskander J",
+      "Pan J",
+      "Thompson AP",
+      "Papenfuss AT",
+      "Lucet IS",
+      "Hardy JM"
+    ],
+    "journal": "Protein science : a publication of the Protein Society",
+    "publication_date": "2026-Feb",
+    "abstract": "Leveraging artificial intelligence and deep learning to generate proteins de novo (a.k.a. 'synthetic proteins') has unlocked new frontiers of protein design. Deep learning models trained on protein structures can generate novel protein designs that explore structural landscapes unseen by evolution. This approach enables the development of bespoke binders that target specific proteins and domains through new protein-protein interactions. However, successful binder generation can suffer from low in silico success rates, often requiring thousands of designs and hundreds of GPU hours to obtain enough hits for experimental testing. While workstation implementations are available for binder design, these are limited in both scalability and throughput. There is a lack of efficient open-source protein design pipelines for high-performance computing (HPC) systems that can maximize hardware resources and parallelize the workflow efficiently. Here, we present 'ProteinDJ'-an implementation of a synthetic protein design workflow that is deployable on HPC systems using the Nextflow portable workflow management system and Apptainer containerisation. It parallelizes the workload across both GPUs and CPUs, facilitating generation and testing of hundreds of designs per hour, accelerating the discovery process. ProteinDJ is designed to be modular and includes RoseTTAFold Diffusion (RFdiffusion) or BindCraft for fold generation, ProteinMPNN or Full-Atom MPNN (FAMPNN) for sequence design, and AlphaFold2 or Boltz-2 for prediction and validation of designs and binder-target interfaces, with supporting packages for structural evaluation of designs. ProteinDJ democratizes protein binder design through its robust and user-friendly implementation and provides a framework for future protein design pipelines. ProteinDJ is freely available at https://github.com/PapenfussLab/proteindj.",
+    "doi": "10.1002/pro.70464",
+    "url": "https://doi.org/10.1002/pro.70464",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Designing novel solenoid proteins with in silico evolution.",
+    "authors": [
+      "Pretorius D",
+      "Nikov GI",
+      "Washio K",
+      "Florent SW",
+      "Taunt HN",
+      "Ovchinnikov S",
+      "Murray JW"
+    ],
+    "journal": "Communications chemistry",
+    "publication_date": "2025-Dec-04",
+    "abstract": "Solenoid proteins are elongated tandem repeat proteins with diverse biological functions, making them attractive targets for protein design. Advances in machine learning have transformed our understanding of sequence-structure relationships, enabling new approaches for de novo protein design. Here, we present an in silico evolution platform that couples a solenoid discriminator network with AlphaFold2 as an oracle within a genetic algorithm. Starting from random sequences, we design α-, β-, and αβ-solenoid backbones, generating structures that span natural and novel solenoid space. We experimentally characterise 41 solenoid designs, with α-solenoids consistently folding as intended, including one structurally validated design that closely matches the design model. All β-solenoids initially failed, reflecting the difficulty of designing β-strand majority proteins. By introducing terminal capping elements and refining designs based on earlier experimental screens, we generate two β-solenoids that have biophysical properties consistent with their designs. Our approach achieves fold-specific hallucination-based design without depending on explicit structural templates.",
+    "doi": "10.1038/s42004-025-01817-3",
+    "url": "https://doi.org/10.1038/s42004-025-01817-3",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "De novo protein design: a transformative frontier in clinical protein applications.",
+    "authors": [
+      "Gao J",
+      "Zheng Z",
+      "Yu X",
+      "Luo Y",
+      "Yu Y",
+      "Zhang C"
+    ],
+    "journal": "Journal of translational medicine",
+    "publication_date": "2026-Feb-04",
+    "abstract": "Protein biologics are indispensable in disease prevention, diagnosis, and therapy, yet their development remains largely constrained by reliance on native protein scaffolds, resulting in long development timelines, limited structural and functional tunability, challenges in manufacturing consistency, and high production costs.",
+    "doi": "10.1186/s12967-026-07784-0",
+    "url": "https://doi.org/10.1186/s12967-026-07784-0",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Can We Extract Physics-like Energies from Generative Protein Diffusion Models?",
+    "authors": [
+      "Sarma S",
+      "Truscott H",
+      "Xu D",
+      "Reid K",
+      "Chu LS",
+      "Chen J",
+      "Gray JJ"
+    ],
+    "journal": "bioRxiv : the preprint server for biology",
+    "publication_date": "2025-Dec-17",
+    "abstract": "Diffusion models have emerged as the state-of-the-art method in generative artificial intelligence (AI) and have shown great success in image synthesis, video generation, molecular design, and protein structure prediction. For biophysical problems, such as protein folding and association, a fundamental question in diffusion-based methods is how their learned functions correspond to thermodynamics. In this paper, we study diffusion models through the lens of theoretical biophysics, analyzing their underlying formulation of potentials and exploring their applications in scoring protein interactions. We develop simple theories rooted in statistical physics that relate thermodynamic potentials to the negative log of the probability of observing a system in a particular state. We include dimensional analysis of diffusion model equations and a table mapping AI and physics jargon. We then test a diffusion model's ability to capture learned energies as negative log-likelihood values, ",
+    "doi": "10.1101/2025.11.28.690021",
+    "url": "https://doi.org/10.1101/2025.11.28.690021",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Interpretable Thermodynamic Score-based Classification of Relaxation Excursions.",
+    "authors": [
+      "Kuznets-Speck B",
+      "Jung J",
+      "Pholraksa P",
+      "Zhong A",
+      "Schwartz L",
+      "Prashnani E",
+      "Vaikuntanathan S",
+      "Goyal Y"
+    ],
+    "journal": "bioRxiv : the preprint server for biology",
+    "publication_date": "2025-Dec-01",
+    "abstract": "Classification and regression are cornerstones of computational biology and science at large, from identifying cell types to stratifying patients by disease state. Current deep learning classifiers provide accurate predictions but offer neither uncertainty estimates nor insight into which features matter most. On the other hand, while diffusion models excel at generating new samples from learned distributions, they have seen limited use in classification and prediction tasks. We introduce a physics-inspired conceptual approach, which we name Keeping SCORE, that transforms diffusion models into probabilistic engines for classification and regression. By measuring dissipation along noising trajectories under different class assumptions, we calculate exact class likelihoods and quantify prediction confidence. Our approach is naturally accompanied by feature attributions that identify which input variables drive each decision, providing interpretability without modifying existing trained models. We test our framework across image recognition tasks (handwritten digits, natural photos), single-cell genomics (distinguishing cell identities, mapping gene perturbation effects), and molecular biophysics (predicting mutation impacts on protein folding energy), showing accurate probability estimates alongside explanations through physically meaningful coordinates. This connection between non-equilibrium statistical mechanics and modern AI approaches creates interpretable, uncertainty-aware predictions for biological discovery.",
+    "doi": "10.1101/2025.11.26.690838",
+    "url": "https://doi.org/10.1101/2025.11.26.690838",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "De novo design of potent CRISPR-Cas13 inhibitors.",
+    "authors": [
+      "Taveneau C",
+      "Chai HX",
+      "D'Silva J",
+      "Bamert RS",
+      "Chen H",
+      "Hayes BK",
+      "Calvert RW",
+      "Purcell J",
+      "Curwen DJ",
+      "Munder F",
+      "Martin LL",
+      "Barr JJ",
+      "Rosenbluh J",
+      "Fareh M",
+      "Grinter R",
+      "Knott GJ"
+    ],
+    "journal": "Nature chemical biology",
+    "publication_date": "2026-Jan-26",
+    "abstract": "CRISPR-Cas systems are transformative tools for gene editing that can be tuned or controlled by anti-CRISPRs (Acrs)-phage-derived inhibitors that regulate CRISPR-Cas activity. However, Acrs that can inhibit biotechnologically relevant CRISPR systems are relatively rare and challenging to discover. To overcome this limitation, we describe a highly successful and rapid approach that leverages de novo protein design to develop new-to-nature proteins for controlling CRISPR-Cas activity. Here, using Leptotrichia buccalis CRISPR-Cas13a as a representative example, we demonstrate that Acrs designed using artificial intelligence (AIcrs) are capable of highly potent and specific inhibition of CRISPR-Cas13a nuclease activity. We present a comprehensive workflow for design validation and demonstrate AIcr functionality in controlling CRISPR-Cas13 activity in bacterial and human cells. The ability to design bespoke inhibitors of Cas effectors will contribute to the ongoing development of CRISPR-Cas tools in diverse applications across research, medicine, agriculture and microbiology.",
+    "doi": "10.1038/s41589-025-02136-3",
+    "url": "https://doi.org/10.1038/s41589-025-02136-3",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Quantum computing and the implementation of precision medicine.",
+    "authors": [
+      "Nassir N",
+      "Hashmi MA",
+      "Raji KG",
+      "Jamalalail B",
+      "Maksymowsky A",
+      "Scherer SW",
+      "Alsheikh-Ali A",
+      "Uddin M"
+    ],
+    "journal": "NPJ genomic medicine",
+    "publication_date": "2025-Dec-03",
+    "abstract": "Precision medicine aims to tailor healthcare by integrating individual genetic, epigenetic, transcriptomic, proteomic, and clinical data, collectively referred to as multi-omic data. However, the scale and complexity of such multi-omics datasets challenge classical computing approaches. Quantum computing, which leverages superposition and entanglement (quantum-level correlations between particles), offers a fundamentally new paradigm for accelerating molecular simulations, biomarker discovery, and high-dimensional data analysis. This review explores the convergence of quantum computing and it's potential to provide unmet needs in precision biomedicine research, with emphasis on applications in diagnostic modeling, multi-omic data integration and drug discovery. We highlight early proof-of-concept studies demonstrating the use of quantum machine learning for disease prediction, quantum algorithms for protein folding, and quantum generative models for novel drug design. Hybrid quantum-classical workflows are also already enabling gene network inference and prioritization of variants of uncertain significance, the latter of which is a major focus of multi-omic research worldwide. Emerging directions include digital twin simulations and real-time clinical decision support powered by quantum models. Looking ahead, the long-term vision for quantum computing in biomedicine involves in silico modeling of entire biological systems to simulate cellular responses to perturbations like drug treatments, enabling clinicians to test therapies in virtual patients before real-world application. Despite these advances, practical implementation remains limited by hardware constraints, qubit decoherence, algorithm scalability, and regulatory barriers. Nonetheless, as quantum hardware evolves and AI-aligned quantum algorithms mature, their integration holds transformative potential. Quantum computing may eventually shorten diagnostic timelines, improve therapeutic precision, and make biomedical innovation more globally accessible. We outline a roadmap for translating these technologies into next-generation precision medicine.",
+    "doi": "10.1038/s41525-025-00537-w",
+    "url": "https://doi.org/10.1038/s41525-025-00537-w",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "High-throughput screening of biomolecules using cell-free systems.",
+    "authors": [
+      "Singh B",
+      "Jyoti",
+      "Kapta S",
+      "Kaur S",
+      "Kumar A",
+      "Abdi G"
+    ],
+    "journal": "Progress in molecular biology and translational science",
+    "publication_date": "2026",
+    "abstract": "High-throughput screening (HTS) has revolutionized the identification and evaluation of biomolecules by enabling the parallel testing of large libraries of compounds, nucleic acids, and proteins against biological targets. Traditionally conducted in live cells, HTS faces limitations such as cellular toxicity, metabolic interference, and regulatory constraints. Cell-free systems (CFS), which operate in vitro using reconstituted transcription-translation machinery, have emerged as powerful alternatives. These systems circumvent the constraints of cellular physiology, allowing for rapid and tunable expression of biomolecules directly from DNA or RNA templates. This chapter explores the principles, platforms, and applications of CFS-based HTS, highlighting its transformative impact on synthetic biology, drug discovery, diagnostics, and protein engineering. Several cell-free systems are detailed, including those derived from E. coli, wheat germ, rabbit reticulocytes, and the defined PURE system. The integration of CFS with high-throughput platforms such as microplates, droplet microfluidics, and paper-based devices enables cost-effective, scalable, and multiplexed assays. Analytical readouts, including fluorescence, luminescence, mass spectrometry, and digital PCR, provide real-time, sensitive detection of biochemical outputs. Furthermore, automation and machine learning are increasingly incorporated through robotic liquid handling and data-driven DBTL cycles, accelerating discovery and design processes. Despite challenges such as high reagent costs and limited post-translational modifications, innovations such as lyophilized CFS kits, artificial cells, and AI-integrated closed-loop platforms are expanding the frontiers of HTS. Altogether, CFS-based HTS offers a flexible, rapid, and accessible approach for next-generation biomolecular screening and therapeutic development.",
+    "doi": "10.1016/bs.pmbts.2025.11.001",
+    "url": "https://doi.org/10.1016/bs.pmbts.2025.11.001",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Modern resources for intrinsic disorder predictions: protein language models, deep learning, meta-servers, and databases.",
+    "authors": [
+      "Wang K",
+      "Hu G",
+      "Yu J",
+      "Kurgan L"
+    ],
+    "journal": "Cellular and molecular life sciences : CMLS",
+    "publication_date": "2026-Feb-14",
+    "abstract": "Computational prediction of intrinsic disorder in protein sequences is an impactful and growing research area, recently infused with deep learning and protein language models, prompting the need to assess the impact of these advancements. We systematically surveyed 128 disorder predictors, many of which are accurate, and some that have been cited thousands of times. We demonstrated that recent methods utilizing protein language models outperform those that do not, particularly when combined with deep learning, yielding substantial gains in predictive quality. We place these observations within the context of other key factors, including runtime and coverage. We also identified and discussed resources that expedite and ease the collection of disorder predictions, including meta-web servers and large databases of pre-computed disorder predictions. Altogether, this work guides users in their pursuit of efficiently and conveniently obtaining accurate disorder predictions and offers practical insights for the developers of disorder predictors.",
+    "doi": "10.1007/s00018-026-06087-3",
+    "url": "https://doi.org/10.1007/s00018-026-06087-3",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Modeling Protein-Protein Complexes by Combining pyDock and AlphaFold.",
+    "authors": [
+      "Rodríguez-Lumbreras LÁ",
+      "Monteagudo V",
+      "Fernández-Recio J"
+    ],
+    "journal": "Methods in molecular biology (Clifton, N.J.)",
+    "publication_date": "2026",
+    "abstract": "The lack of experimental structures for the majority of protein-protein complexes has motivated the development of a variety of strategies for the structural modeling of protein complexes, such as computational docking, in active development for the last decades, and the more recent artificial intelligence (AI)-based ground-breaking methodologies. Among the existing computational docking methods, Python docking (pyDock) has shown competitive predictive rates and high robustness over the years. However, the field has dramatically changed with the appearance of artificial intelligence (AI)-based methods, like AlphaFold. While structure prediction of individual proteins is virtually solved by this program, the focus is now on how to improve the prediction of challenging cases like antibody-antigen complexes, multiprotein complexes, weak interactions, or highly flexible interacting proteins. Successful strategies are based on the generation of more diverse sets of models and the integration with other \"classical\" approaches that facilitate the identification of the correct models. Here, we will show in practical terms how to combine the structural modeling capabilities of AlphaFold with the energy-based scoring function in pyDock to improve structural predictions in challenging protein-protein complexes.",
+    "doi": "10.1007/978-1-0716-4828-5_15",
+    "url": "https://doi.org/10.1007/978-1-0716-4828-5_15",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Benchmarking Deep Learning for PROTAC Ternary Complex Prediction.",
+    "authors": [
+      "Chen H",
+      "Wei F",
+      "Li J",
+      "Shi Z",
+      "Chen S",
+      "Fang Y",
+      "Li S",
+      "Gao X",
+      "Ju L",
+      "Fang S",
+      "Xu X"
+    ],
+    "journal": "Proteins",
+    "publication_date": "2026-Feb-03",
+    "abstract": "Proteolysis Targeting Chimeras (PROTACs) represent a transformative approach to drug development by leveraging the intracellular ubiquitin-proteasome system (UPS) for the selective degradation of target proteins. A PROTAC molecule comprises three essential components: a ligand that binds to the E3 ubiquitin ligase, a ligand that targets the protein of interest, and a flexible linker that connects the two. This distinctive structure enables the PROTAC to simultaneously engage with both the target protein and the E3 ligase, facilitating their interaction. Such proximity initiates the ubiquitination of the target protein, marking it for recognition and subsequent degradation. In this study, we benchmark ternary complexes based on PROTACs using four recently employed predictive tools: Chai-1, AlphaFold2, AlphaFold3, and Protenix. Comparative analysis indicated that the ternary complexes predicted by the four prediction tools demonstrated satisfactory accuracy (Cα-RMSD < 10 Å). Among the evaluated tools, three-Chai-1, AlphaFold3, and Protenix-demonstrated superior performance in over half of the tests, while AlphaFold2 exhibited comparatively lower performance. However, significant challenges remained in accurately predicting the orientation of POI and the E3 ligase (Cα-RMSD < 10 Å when POI or E3 ligase were used as reference), as well as the position of the small molecule PROTAC (RMSD < 5 Å). By benchmarking these tools, we underscore recent advancements in protein structure prediction, enhance our understanding of the mechanisms underpinning PROTAC complexes, and provide a valuable reference for evaluating the binding conformations of other ternary complexes, as well as for the development of future predictive tools.",
+    "doi": "10.1002/prot.70117",
+    "url": "https://doi.org/10.1002/prot.70117",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Explaining how mutations affect AlphaFold predictions.",
+    "authors": [
+      "Clore MF",
+      "Thole JF",
+      "Dontha S",
+      "Sharma P",
+      "Greenberg N",
+      "Strub MP",
+      "Starich M",
+      "Jensen D",
+      "Volkman BF",
+      "Coudron M",
+      "Porter LL"
+    ],
+    "journal": "bioRxiv : the preprint server for biology",
+    "publication_date": "2026-Jan-13",
+    "abstract": "Transformer models, neural networks that learn context by identifying relationships in sequential data, underpin many recent advances in artificial intelligence. Nevertheless, their inner workings are difficult to explain. Here, we find that a transformer model within the AlphaFold architecture uses simple, sparse patterns of amino acids to select protein conformations. To identify these patterns, we developed a straightforward algorithm called Conformational Attention Analysis Tool (CAAT). CAAT identifies amino acid positions that affect AlphaFold's predictions substantially when modified. These effects are corroborated by experiments in several cases. By contrast, modifying amino acids ignored by CAAT affects AlphaFold predictions less, regardless of experimental ground truth. Our results demonstrate that CAAT successfully identifies the positions of some amino acids important for protein structure prediction, narrowing the search space required to predict effective mutations and suggesting a framework that can be applied to other transformer-based neural networks.",
+    "doi": "10.64898/2025.12.30.697132",
+    "url": "https://doi.org/10.64898/2025.12.30.697132",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Prodigy protein: Python package for zero-shot protein engineering using protein language models.",
+    "authors": [
+      "Massett M",
+      "Carr A"
+    ],
+    "journal": "BMC bioinformatics",
+    "publication_date": "2025-Dec-29",
+    "abstract": "Protein Language Models (PLMs) are emerging as powerful tools for designing human proteins, including antibodies. These models can predict the effects of mutations in a zero-shot setting-without requiring additional fine-tuning-and suggest plausible amino acid substitutions.",
+    "doi": "10.1186/s12859-025-06316-9",
+    "url": "https://doi.org/10.1186/s12859-025-06316-9",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Enhancing the Feature Representation of Protein Sequence Descriptors in Protein-Protein Interaction Prediction.",
+    "authors": [
+      "Tran HN",
+      "Quynh NP",
+      "Zhao H",
+      "Wang J"
+    ],
+    "journal": "Interdisciplinary sciences, computational life sciences",
+    "publication_date": "2025-Dec",
+    "abstract": "In recent years, computational methods such as machine learning and deep learning have been increasingly used to solve various bioinformatics problems related to protein sequence data, such as predicting protein interaction, protein function, subcellular location, and so on. The first crucial step in applying these methods is how to represent a protein sequence as an input feature vector, as the feature vector quality significantly impacts the performance of those methods. A range of protein sequence descriptors has been proposed to enhance the quality of protein sequence representation. Existing descriptors extract information that can be obtained from sequences, such as composition, distribution, spatial correlation between amino acids, and so on. However, improvements can still be made in spatial correlation to capture better sequence similarity, which is valuable for Protein-Protein Interaction (PPI) prediction tasks. In this study, our aim is to develop new descriptors based on six well-known sequence descriptors to improve the ability to represent protein sequences. We evaluate the performance of the new descriptors on various PPI datasets. The results demonstrate that the proposed descriptors outperform their original versions in terms of PPI prediction performance. This work also introduces ProtSeqDesc (protein sequence descriptors), a flexible Python package that includes 51 types of feature vectors, covering all proposed descriptors. The software package is aimed at meeting the demand for the application of computational methods in bioinformatics.",
+    "doi": "10.1007/s12539-025-00723-5",
+    "url": "https://doi.org/10.1007/s12539-025-00723-5",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Bridging Scales: Coarse-Grained Protein Models in Computational Biology.",
+    "authors": [
+      "Borges-Araújo L",
+      "Patmanidis I",
+      "Razmazma H",
+      "Souza PCT"
+    ],
+    "journal": "Advances in experimental medicine and biology",
+    "publication_date": "2026",
+    "abstract": "Coarse-grained (CG) modeling has emerged as an essential tool in computational biology, offering a simplified yet effective representation of proteins and their interactions. By reducing atomic detail, CG models enhance computational efficiency while preserving critical physical and chemical properties, enabling the study of large-scale biological phenomena. These models facilitate the exploration of complex processes-such as protein folding, conformational dynamics, molecular interactions, and supramolecular assemblies-that are often inaccessible to all-atom simulations. This chapter provides an overview of CG protein modeling, tracing its historical development from early simplified representations to advanced coarse-graining techniques. We discuss fundamental principles, including bottom-up and top-down parameterization strategies, statistical potentials, and structure-based approaches like elastic network models and Gō-like models. Key applications are explored, including insights into protein folding mechanisms, protein-protein interactions, phase separation, and protein-lipid interactions in complex cellular environments. Recent advances in CG-based drug discovery are also highlighted. The chapter concludes with a discussion on future directions for CG modeling, emphasizing hybrid approaches, artificial intelligence-driven parameterization, and enhanced force fields to improve accuracy and broaden applicability in computational biology.",
+    "doi": "10.1007/978-3-032-07511-6_6",
+    "url": "https://doi.org/10.1007/978-3-032-07511-6_6",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Automated Segmentation of Kidney Nephron Structures by Deep Learning Models on Label-free Autofluorescence Microscopy for Spatial Multi-omics Data Acquisition and Mining",
+    "authors": [
+      "Patterson, N. H.",
+      "Neumann, E. K.",
+      "Sharman, K.",
+      "Allen, J. L.",
+      "Harris, R. C.",
+      "Fogo, A. B.",
+      "deCaestecker, M. P.",
+      "Van de Plas, R.",
+      "Spraggins, J. M."
+    ],
+    "journal": "bioRxiv",
+    "publication_date": "2026-02-03",
+    "abstract": "Automated spatial segmentation models can enrich spatio-molecular omics analyses by providing a link to relevant biological structures. We developed segmentation models that use label-free autofluorescence (AF) microscopy to recognize multicellular functional tissue units (FTUs) (glomerulus, proximal tubule, descending thin limb, ascending thick limb, distal tubule, and collecting duct) and gross morphological structures (cortex, outer medulla, and inner medulla) in the human kidney. Annotations were curated using highly specific multiplex immunofluorescence and transferred to co-registered AF for model training. All FTUs (except the descending thin limb) and gross kidney morphology were segmented with high accuracy: >0.85 F1-score, and Dice-Sorensen coefficients >0.80, respectively. This workflow allowed lipids, profiled by imaging mass spectrometry, to be quantitatively associated with segmented FTUs. The segmentation masks were also used to acquire spatial transcriptomics data from collecting ducts. Consistent with previous literature, we demonstrated differing transcript expression of collecting ducts in the inner and outer medulla.",
+    "doi": "10.1101/2021.07.16.452703",
+    "url": "https://doi.org/10.1101/2021.07.16.452703",
+    "source": "bioRxiv",
+    "type": "preprint"
+  },
+  {
+    "title": "Biophysically inspired mean-field model of neuronal populations driven by ion exchange mechanisms",
+    "authors": [
+      "Rabuffo, G.",
+      "Bandyopadhyay, A.",
+      "Calabrese, C.",
+      "Gudibanda, K.",
+      "Depannemaecker, D.",
+      "Takarabe, L. M.",
+      "Chatterjee, S.",
+      "Saggio, M. L.",
+      "Desroches, M.",
+      "Ivanov, A. I.",
+      "Linne, M.-L.",
+      "bernard, c.",
+      "Petkoski, S.",
+      "Jirsa, V."
+    ],
+    "journal": "bioRxiv",
+    "publication_date": "2026-01-21",
+    "abstract": "Whole-brain simulations are a valuable tool for gaining insight into the multiscale processes that regulate brain activity. Due to the complexity of the brain, it is impractical to include all microscopic details in a simulation. Hence, researchers often simulate the brain as a network of coupled neural masses, each described by a mean-field model. These models capture the essential features of neuronal populations while approximating most biophysical details. However, it may be important to include certain parameters that significantly impact brain function. The concentration of ions in the extracellular space is one key factor to consider, as its fluctuations can be associated with healthy and pathological brain states. In this paper, we develop a new mean-field model of a population of Hodgkin-Huxley-type neurons, retaining a microscopic perspective on the ion-exchange mechanisms driving neuronal activity. This allows us to maintain biophysical interpretability while bridging the gap between micro- and macro-scale mechanisms. Our model is able to reproduce a wide range of activity patterns, also observed in large neural network simulations. Specifically, slow-changing ion concentrations modulate the fast neuroelectric activity, a feature of our model that we validated through in vitro experiments. By studying how changes in extracellular ionic conditions can affect whole-brain dynamics, this model serves as a foundation to measure biomarkers of pathological activity and provide potential therapeutic targets in cases of brain dysfunctions like epilepsy.",
+    "doi": "10.1101/2021.10.29.466427",
+    "url": "https://doi.org/10.1101/2021.10.29.466427",
+    "source": "bioRxiv",
+    "type": "preprint"
+  },
+  {
+    "title": "Specific Sensitivity to Rare and Extreme Events: Quasi-Complete Black Swan Avoidance vs Partial Jackpot Seeking in Rat Decision-Making",
+    "authors": [
+      "Degoulet, M.",
+      "Willem, L.-M.",
+      "Baunez, C.",
+      "Luchini, S.",
+      "Pintus, P."
+    ],
+    "journal": "bioRxiv",
+    "publication_date": "2025-12-03",
+    "abstract": "Most behavioral studies in animals investigate risk using outcome probabilities larger than 10%. However, real-world Decision-Making often requires evaluating events that are both extremely unlikely and highly consequential. To address this gap, we developed an experimental and computational framework to quantify how rats detect and adapt to rare (probability < 1%) and extreme (deviation from mean > 10 standard deviations) outcomes (REE). Using a four-armed bandit task, animals chose between options associated with probabilistic rewards (sugar pellets) or punishments (time-out delays). Depending on the animals choice, REE can occur or not, allowing us to probe how rats integrate information across both common and fat-tailed event distributions. Across subjects, behavior showed restricted diversification (typically two out of f our options) and clear sensitivity to REE, expressed as a systematic avoidance of rare and extreme punishments (\"Black Swans\") combined with partial exposure to rare and extreme gains (\"Jackpots\"). The dominant behavioral phenotype displayed a near-complete suppression of exposure to Black Swans, whereas exposure to Jackpots remained only moderate. This asymmetric sensitivity came at a cost: these animals accepted smaller frequent gains and larger frequent losses to avoid catastrophic outcomes. To account for these behaviors, we implemented an augmented reinforcement learning model in which REE are weighted separately from frequent events. Fitting this model to individual behavioral data captured subjects decision patterns far better than standard Q-learning, which systematically failed to reproduce the observed asymmetry. The best-fitting model suggests that the rat brain segregates information from the central outcome distribution and the distribution tails, assigning distinct value weights to REE during action selection. This work provides the first evidence that rodents spontaneously adapt their learning strategies to avoid extreme punishments while partially maintaining exposure to rare and extreme gains, suggesting that frequent outcomes are treated separately from rare and extreme ones through different weights in Decision-Making.",
+    "doi": "10.1101/2021.11.01.466806",
+    "url": "https://doi.org/10.1101/2021.11.01.466806",
+    "source": "bioRxiv",
+    "type": "preprint"
+  },
+  {
+    "title": "Intrinsic properties ensure reliable attractor dynamics in learned neural assemblies embedded within noisy, asynchronous networks",
+    "authors": [
+      "Sarazin, M. X. B.",
+      "Barthelemy, J.",
+      "Medernach, D.",
+      "Naude, J.",
+      "Delord, B."
+    ],
+    "journal": "bioRxiv",
+    "publication_date": "2026-02-05",
+    "abstract": "Neural representations rely on the ability of neuronal assemblies to display organized spiking patterns, despite being embedded within noisy networks. These structured patterns arise from attractor dynamics due to activity reverberation promoted by learnt assembly connectivity. Yet, attractor dynamics have been assessed either under low-noise conditions or in highly idealized neuronal assemblies. Here, in a spiking recurrent neural network model displaying asynchronous irregular noise, we show that realistic spike timing-dependent plasticity (STDP) imposes either low controllability of attractor recall (when STDP is strong), low stability of attractor maintenance (when STDP is low), or both. Moreover, STDP-built attractors display low independence, i.e., they perturb activity in the surrounding network. These constraints may favor self-generated representation switches essential for cognitive flexibility but dampening cognitive reliability. We reveal, by contrast, that several biophysical mechanisms alleviate these issues through a common dynamical principle, protecting excitatory-driven attractorial dynamics from inhibitory-driven spontaneous fluctuations. Amongst biophysical determinants, intrinsic properties were most efficient to increase controllability, stability and independence of attractor dynamics. Specifically, spike-triggered calcium-activated conductances improved reliability by mitigating reliance on connectivity, even at low conductance levels, i.e., in the absence of cell-autonomous intrinsic bistability. Finally, we show that the mechanisms we identify operate over a large repertoire of static (e.g., Hebbian or ring) and dynamic (e.g., sequences) attractors, with uni- and bidirectional propagation. Altogether, these results pinpoint synaptic and intrinsic synergy as a generic principle to regulate attractor reliability, as a function of the cognitive demand.",
+    "doi": "10.1101/2022.07.26.501548",
+    "url": "https://doi.org/10.1101/2022.07.26.501548",
+    "source": "bioRxiv",
+    "type": "preprint"
+  },
+  {
+    "title": "Exploring the limits of pre-trained embeddings in machine-guided protein design: a case study on predicting AAV vector viability",
+    "authors": [
+      "Ana F. Rodrigues",
+      "Lucas Ferraz",
+      "Laura Balbi",
+      "Pedro Giesteira Cotovio",
+      "Catia Pesquita"
+    ],
+    "journal": "arXiv",
+    "publication_date": "2026-02-16",
+    "abstract": "Effective representations of protein sequences are widely recognized as a cornerstone of machine learning-based protein design. Yet, protein bioengineering poses unique challenges for sequence representation, as experimental datasets typically feature few mutations, which are either sparsely distributed across the entire sequence or densely concentrated within localized regions. This limits the ability of sequence-level representations to extract functionally meaningful signals. In addition, comprehensive comparative studies remain scarce, despite their crucial role in clarifying which representations best encode relevant information and ultimately support superior predictive performance. In this study, we systematically evaluate multiple ProtBERT and ESM2 embedding variants as sequence representations, using the adeno-associated virus capsid as a case study and prototypical example of bioengineering, where functional optimization is targeted through highly localized sequence variation within an otherwise large protein. Our results reveal that, prior to fine-tuning, amino acid-level embeddings outperform sequence-level representations in supervised predictive tasks, whereas the latter tend to be more effective in unsupervised settings. However, optimal performance is only achieved when embeddings are fine-tuned with task-specific labels, with sequence-level representations providing the best performance. Moreover, our findings indicate that the extent of sequence variation required to produce notable shifts in sequence representations exceeds what is typically explored in bioengineering studies, showing the need for fine-tuning in datasets characterized by sparse or highly localized mutations.",
+    "doi": "",
+    "url": "https://arxiv.org/abs/2602.14828v1",
+    "source": "arXiv",
+    "type": "preprint"
+  },
+  {
+    "title": "Dynamics-inspired Structure Hallucination for Protein-protein Interaction Modeling",
+    "authors": [
+      "Fang Wu",
+      "Stan Z. Li"
+    ],
+    "journal": "arXiv",
+    "publication_date": "2026-01-08",
+    "abstract": "Protein-protein interaction (PPI) represents a central challenge within the biology field, and accurately predicting the consequences of mutations in this context is crucial for drug design and protein engineering. Deep learning (DL) has shown promise in forecasting the effects of such mutations, but is hindered by two primary constraints. First, the structures of mutant proteins are often elusive to acquire. Secondly, PPI takes place dynamically, which is rarely integrated into the DL architecture design. To address these obstacles, we present a novel framework named Refine-PPI with two key enhancements. First, we introduce a structure refinement module trained by a mask mutation modeling (MMM) task on available wild-type structures, which is then transferred to produce the inaccessible mutant structures. Second, we employ a new kind of geometric network, called the probability density cloud network (PDC-Net), to capture 3D dynamic variations and encode the atomic uncertainty associated with PPI. Comprehensive experiments on SKEMPI.v2 substantiate the superiority of Refine-PPI over all existing tools for predicting free energy change. These findings underscore the effectiveness of our hallucination strategy and the PDC module in addressing the absence of mutant protein structure and modeling geometric uncertainty.",
+    "doi": "",
+    "url": "https://arxiv.org/abs/2601.06214v1",
+    "source": "arXiv",
+    "type": "preprint"
+  }
+]

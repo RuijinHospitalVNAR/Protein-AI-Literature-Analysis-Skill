@@ -1,0 +1,300 @@
+[
+  {
+    "title": "Rational protein design.",
+    "authors": [
+      "Chubb JJ",
+      "Boyle AL",
+      "Albanese KI"
+    ],
+    "journal": "Current opinion in structural biology",
+    "publication_date": "2026-Feb-12",
+    "abstract": "Protein design enables the creation of novel structures and functions beyond those found in nature, with recent progress accelerated by computational modeling and machine learning. However, many automated methods act as black boxes, limiting mechanistic insight. Here we highlight the continuing importance of rational protein design, defined as an approach rooted in physical principles, chemical intuition, and sequence-structure-function relationships. We outline three complementary strategies: backbone-first, sequence-first, and function-first, which provide interpretable design frameworks and enable robust scaffold generation, motif incorporation, and functional engineering. Looking forward, we argue that hybrid workflows combining rational principles with machine learning offer the most promising route to dynamic, explainable, and generalizable protein design.",
+    "doi": "10.1016/j.sbi.2026.103224",
+    "url": "https://doi.org/10.1016/j.sbi.2026.103224",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Computational design of intrinsically disordered proteins.",
+    "authors": [
+      "Tesei G",
+      "Pesce F",
+      "Lindorff-Larsen K"
+    ],
+    "journal": "Current opinion in structural biology",
+    "publication_date": "2026-Feb",
+    "abstract": "Protein design has the potential to revolutionize biotechnology and medicine. While most efforts have focused on proteins with well-defined structures, increased recognition of the functional significance of intrinsically disordered regions, together with improvements in their modeling, has paved the way to their computational design. This review summarizes recent advances in designing intrinsically disordered regions with tailored conformational ensembles, molecular recognition, and phase behavior. We discuss challenges in combining models of predictive accuracy with scalable design workflows and outline emerging strategies that integrate knowledge-based, physics-based, and machine-learning approaches.",
+    "doi": "10.1016/j.sbi.2025.103210",
+    "url": "https://doi.org/10.1016/j.sbi.2025.103210",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Artificial intelligence driven protein design and sustainable nanomedicine for advanced theranostics.",
+    "authors": [
+      "Esmaeilpour D",
+      "Hamblin MR",
+      "Cheng J",
+      "Khosravi A",
+      "Liu J",
+      "Zarepour A",
+      "Zarrabi A",
+      "Sillanpää M",
+      "Nazarzadeh Zare E",
+      "Shen J",
+      "Karimi-Maleh H"
+    ],
+    "journal": "Bioactive materials",
+    "publication_date": "2026-Jun",
+    "abstract": "The integration of artificial intelligence, protein engineering, and sustainable nanomedicine is driving a paradigm shift in theranostics by enabling highly precise disease diagnosis and targeted therapy. AI-driven methodologies, including machine learning and deep learning, facilitate the rapid analysis of complex biological and chemical datasets, accelerating protein structure prediction, molecular docking, and structure-activity relationship modeling. These capabilities support the rational design of proteins and peptides with enhanced specificity, therapeutic efficacy, and safety, while enabling personalized treatment strategies tailored to individual molecular profiles. In parallel, sustainable nanomedicine focuses on the development of biodegradable, biocompatible, and environmentally benign nanomaterials to improve drug bioavailability, stability, and controlled release. AI-assisted optimization further refines nanocarrier design by balancing therapeutic performance with safety and environmental impact. Advanced intelligent nanocarriers capable of real-time monitoring, adaptive drug release, and degradation into non-toxic by-products represent a significant advancement over conventional static systems. The theranostic paradigm has become central to precision medicine, particularly in oncology, especially where AI-designed nanoplatforms enable targeted delivery of imaging agents and therapeutics to tumors, while allowing continuous treatment monitoring and minimizing off-target effects. Emerging applications in neurological, infectious, and cardiovascular diseases further highlight the broad clinical potential of this approach. Accordingly, this review summarizes AI-driven protein design strategies, sustainable nanocarrier engineering, and their convergence in next-generation theranostic systems, critically discussing mechanistic insights, translational challenges, and design principles required for developing safe, scalable, and clinically adaptable intelligent nanomedicines.",
+    "doi": "10.1016/j.bioactmat.2026.01.036",
+    "url": "https://doi.org/10.1016/j.bioactmat.2026.01.036",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "ProteinDJ: A high-performance and modular protein design pipeline.",
+    "authors": [
+      "Silke D",
+      "Iskander J",
+      "Pan J",
+      "Thompson AP",
+      "Papenfuss AT",
+      "Lucet IS",
+      "Hardy JM"
+    ],
+    "journal": "Protein science : a publication of the Protein Society",
+    "publication_date": "2026-Feb",
+    "abstract": "Leveraging artificial intelligence and deep learning to generate proteins de novo (a.k.a. 'synthetic proteins') has unlocked new frontiers of protein design. Deep learning models trained on protein structures can generate novel protein designs that explore structural landscapes unseen by evolution. This approach enables the development of bespoke binders that target specific proteins and domains through new protein-protein interactions. However, successful binder generation can suffer from low in silico success rates, often requiring thousands of designs and hundreds of GPU hours to obtain enough hits for experimental testing. While workstation implementations are available for binder design, these are limited in both scalability and throughput. There is a lack of efficient open-source protein design pipelines for high-performance computing (HPC) systems that can maximize hardware resources and parallelize the workflow efficiently. Here, we present 'ProteinDJ'-an implementation of a synthetic protein design workflow that is deployable on HPC systems using the Nextflow portable workflow management system and Apptainer containerisation. It parallelizes the workload across both GPUs and CPUs, facilitating generation and testing of hundreds of designs per hour, accelerating the discovery process. ProteinDJ is designed to be modular and includes RoseTTAFold Diffusion (RFdiffusion) or BindCraft for fold generation, ProteinMPNN or Full-Atom MPNN (FAMPNN) for sequence design, and AlphaFold2 or Boltz-2 for prediction and validation of designs and binder-target interfaces, with supporting packages for structural evaluation of designs. ProteinDJ democratizes protein binder design through its robust and user-friendly implementation and provides a framework for future protein design pipelines. ProteinDJ is freely available at https://github.com/PapenfussLab/proteindj.",
+    "doi": "10.1002/pro.70464",
+    "url": "https://doi.org/10.1002/pro.70464",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "De novo protein design: a transformative frontier in clinical protein applications.",
+    "authors": [
+      "Gao J",
+      "Zheng Z",
+      "Yu X",
+      "Luo Y",
+      "Yu Y",
+      "Zhang C"
+    ],
+    "journal": "Journal of translational medicine",
+    "publication_date": "2026-Feb-04",
+    "abstract": "Protein biologics are indispensable in disease prevention, diagnosis, and therapy, yet their development remains largely constrained by reliance on native protein scaffolds, resulting in long development timelines, limited structural and functional tunability, challenges in manufacturing consistency, and high production costs.",
+    "doi": "10.1186/s12967-026-07784-0",
+    "url": "https://doi.org/10.1186/s12967-026-07784-0",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Self-assembling protein cages: from coiled-coil module to machine learning-driven ",
+    "authors": [
+      "Gupta AK",
+      "Esih H",
+      "Gradišar H",
+      "Jerala R"
+    ],
+    "journal": "Materials advances",
+    "publication_date": "2026-Feb-09",
+    "abstract": "The rational design of self-assembling protein nanocages holds great promise for synthetic biology, biotechnology and biomedical applications. Protein nanocages are well-defined nanoparticles with an inner cavity formed by self-assembly of repetitive protein building blocks. These cavities can be tailored to encapsulate and protect cargo molecules such as drugs, enzymes, or imaging agents. The ability to design ",
+    "doi": "10.1039/d5ma00792e",
+    "url": "https://doi.org/10.1039/d5ma00792e",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Enhancing ML-based binder design with high-throughput screening: a comparison of mRNA and yeast display technologies.",
+    "authors": [
+      "Yao Z",
+      "Metts M",
+      "Huber AK",
+      "Li J",
+      "Kinjo T",
+      "Dieckhaus H",
+      "Nallathambi A",
+      "Bowers AA",
+      "Kuhlman B"
+    ],
+    "journal": "bioRxiv : the preprint server for biology",
+    "publication_date": "2026-Feb-14",
+    "abstract": "Recent advances in machine learning (ML)-based protein design methods have enabled the rapid ",
+    "doi": "10.64898/2026.02.12.705611",
+    "url": "https://doi.org/10.64898/2026.02.12.705611",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Benchmarking Generative AI Protein Models Reveals Differences Between Structural and Sequence-based Approaches.",
+    "authors": [
+      "Barnett AJ",
+      "Kc R",
+      "Pandey P",
+      "Somasiri P",
+      "Fairfax KA",
+      "Hung S",
+      "Hewitt AW"
+    ],
+    "journal": "Genomics, proteomics & bioinformatics",
+    "publication_date": "2026-Feb-15",
+    "abstract": "Recent advances in artificial intelligence have led to the development of generative models for de novo protein design. We compared 13 state-of-the-art generative protein models, assessing their ability to produce feasible, diverse, and novel protein monomers. Structural diffusion models generally create designs with higher confidence in predicted structures and more biologically plausible energy distributions, but exhibit limited diversity and strong sequence biases. Conversely, protein language models generate more diverse and novel designs but with lower structural confidence. We also evaluated these models' ability to generate unique proteins, conditionally based on the Tobacco Etch Virus (TEV) protease. Generative models were successful in producing functional enzymes, albeit with diminished activity compared to the wildtype TEV. Our systematic benchmarking provides a foundation for evaluating and selecting generative protein models, while highlighting the complementary strengths of different generative paradigms. This framework will facilitate an informed application of these tools for bio-medical engineering and design.",
+    "doi": "10.1093/gpbjnl/qzag014",
+    "url": "https://doi.org/10.1093/gpbjnl/qzag014",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Modifying inhibitor specificity for homologous enzymes by machine learning.",
+    "authors": [
+      "Gozlan DS",
+      "Meiri R",
+      "Shapira G",
+      "Coban M",
+      "Radisky ES",
+      "Orenstein Y",
+      "Papo N"
+    ],
+    "journal": "The FEBS journal",
+    "publication_date": "2026-Feb",
+    "abstract": "Selective inhibitors are essential for targeted therapeutics and for probing enzyme functions in various biological systems. The two main challenges in identifying such protein-based inhibitors lie in the extensive experimental effort required, including the generation of large libraries, and in tailoring the selectivity of inhibitors to enzymes with homologous structures. To address these challenges, machine learning (ML) is being used to improve protein design by training on targeted libraries and identifying key interface mutations that enhance affinity and specificity. However, such ML-based methods are limited by inaccurate energy calculations and difficulties in predicting the structural impacts of multiple mutations. Here, we present an ML-based method that leverages HTS data to streamline the design of selective protease inhibitors. To demonstrate its utility, we applied our new method to find inhibitors of matrix metalloproteinases (MMPs), a family of homologous proteases involved in both physiological and pathological processes. By training ML models on binding data for three MMPs (MMP-1, MMP-3, and MMP-9), we successfully designed a novel N-TIMP2 variant with a differential specificity profile, namely, high affinity for MMP-9, moderate affinity for MMP-3, and low affinity for MMP-1. Our experimental validation showed that this novel variant exhibited a significant specificity shift and enhanced selectivity compared with wild-type N-TIMP2. Through molecular modeling and energy minimization, we obtained structural insights into the variant's enhanced selectivity. Our findings highlight the power of ML-based methods to reduce experimental workloads, facilitate the rational design of selective inhibitors, and advance the understanding of specific inhibitor-enzyme interactions in homologous enzyme systems.",
+    "doi": "10.1111/febs.70249",
+    "url": "https://doi.org/10.1111/febs.70249",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Mapping targetable sites on the human surfaceome for the design of novel binders.",
+    "authors": [
+      "Balbi PEM",
+      "Sadek A",
+      "Marchand A",
+      "Yu TY",
+      "Damjanovic J",
+      "Georgeon S",
+      "Schmidt J",
+      "Fulle S",
+      "Yang C",
+      "Khakzad H",
+      "Correia BE"
+    ],
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "publication_date": "2026-Feb-03",
+    "abstract": "The human cell surfaceome, integral to cell communication and disease mechanisms, presents a prime target for therapeutic intervention. De novo protein binder design against these cell surface proteins offers a promising yet underexplored strategy for drug development. However, the vast search space and limited data on natural or competitive binders have historically limited experimental success. In this study, we systematically analyzed the entire human surfaceome, identifying approximately 4,500 targetable sites and introducing potential binding seeds for initiating protein design applications. To validate these seeds, we implemented two experimental approaches (protein scaffolding and peptide cyclization) on three representative targets (FGFR2, IFNAR2, and HER3). Our results revealed a high success rate, showing that seeds provide valuable starting points for binder design against our identified targetable sites, as well as the need for constant improvements of computational protein design pipelines utilizing machine learning and physics-based methods. Additionally, we present SURFACE-Bind, an interactive database offering open access to all generated data. The high-throughput computational design methods and target-specific binder seeds established here pave the way for a new generation of targeted therapeutics for the human surfaceome.",
+    "doi": "10.1073/pnas.2506269123",
+    "url": "https://doi.org/10.1073/pnas.2506269123",
+    "source": "PubMed",
+    "type": "peer-reviewed"
+  },
+  {
+    "title": "Automated Segmentation of Kidney Nephron Structures by Deep Learning Models on Label-free Autofluorescence Microscopy for Spatial Multi-omics Data Acquisition and Mining",
+    "authors": [
+      "Patterson, N. H.",
+      "Neumann, E. K.",
+      "Sharman, K.",
+      "Allen, J. L.",
+      "Harris, R. C.",
+      "Fogo, A. B.",
+      "deCaestecker, M. P.",
+      "Van de Plas, R.",
+      "Spraggins, J. M."
+    ],
+    "journal": "bioRxiv",
+    "publication_date": "2026-02-03",
+    "abstract": "Automated spatial segmentation models can enrich spatio-molecular omics analyses by providing a link to relevant biological structures. We developed segmentation models that use label-free autofluorescence (AF) microscopy to recognize multicellular functional tissue units (FTUs) (glomerulus, proximal tubule, descending thin limb, ascending thick limb, distal tubule, and collecting duct) and gross morphological structures (cortex, outer medulla, and inner medulla) in the human kidney. Annotations were curated using highly specific multiplex immunofluorescence and transferred to co-registered AF for model training. All FTUs (except the descending thin limb) and gross kidney morphology were segmented with high accuracy: >0.85 F1-score, and Dice-Sorensen coefficients >0.80, respectively. This workflow allowed lipids, profiled by imaging mass spectrometry, to be quantitatively associated with segmented FTUs. The segmentation masks were also used to acquire spatial transcriptomics data from collecting ducts. Consistent with previous literature, we demonstrated differing transcript expression of collecting ducts in the inner and outer medulla.",
+    "doi": "10.1101/2021.07.16.452703",
+    "url": "https://doi.org/10.1101/2021.07.16.452703",
+    "source": "bioRxiv",
+    "type": "preprint"
+  },
+  {
+    "title": "Evidence of an optimal error rate for motor skill learning",
+    "authors": [
+      "Al-Fawakhiri, N.",
+      "Kayani, S.",
+      "McDougle, S. D."
+    ],
+    "journal": "bioRxiv",
+    "publication_date": "2026-02-07",
+    "abstract": "When acquiring a motor skill, learners must practice the skill at a difficulty that is challenging but still manageable to gradually improve their performance. In other words, during training, the learner must experience success as well as failure. Does there exist an optimal proportion of successes and failures to promote the fastest improvements in skill? Here, we build on a recent theoretical framework for optimal machine learning, extending it to the learning of motor skills. We then designed a custom task whose difficulty dynamically changed along with human subjects performance, constraining the error rate during training. In a large behavioral dataset (N=192), we observed evidence that learning is greatest at around a [~]30% error rate, matching our theoretical predictions.",
+    "doi": "10.1101/2023.07.19.549705",
+    "url": "https://doi.org/10.1101/2023.07.19.549705",
+    "source": "bioRxiv",
+    "type": "preprint"
+  },
+  {
+    "title": "Prediction of protein-carbohydrate binding sites from protein primary sequence",
+    "authors": [
+      "Nafi, M. M. I.",
+      "Nawar, Q. F.",
+      "Islam, T. N.",
+      "Rahman, M. S."
+    ],
+    "journal": "bioRxiv",
+    "publication_date": "2026-02-05",
+    "abstract": "BackgroundA protein is a large complex macromolecule that has a crucial role in performing most of the work in cells and tissues. It is made up of one or more long chains of amino acid residues. Another important biomolecule, after DNA and protein, is carbohydrate. Carbohydrates interact with proteins to run various biological processes. Several biochemical experiments exist to learn the protein-carbohydrate interactions, but they are expensive, time-consuming, and challenging. Therefore, developing computational techniques for effectively predicting protein-carbohydrate binding interactions from protein primary sequence has given rise to a prominent new field of research.\n\nResultIn this study, we propose StackCBEmbed, an ensemble machine learning model to effectively classify protein-carbohydrate binding interactions at residue level. StackCBEmbed combines traditional sequence-based features along with features derived from a pre-trained transformer-based protein language model. To the best of our knowledge, ours is the first attempt to apply protein language model in predicting protein-carbohydrate binding interactions. StackCBEmbed achieved sensitivity and balanced accuracy scores of 0.730, 0.776 and 0.666, 0.742 in two separate independent test sets. This performance is superior compared to the earlier prediction models benchmarked in the same datasets.\n\nConclusionWe thus hope that StackCBEmbed will discover novel protein-carbohydrate interactions and help advance the related fields of research. StackCBEmbed is freely available as Python scripts at https://github.com/nafiislam/StackCBEmbed.",
+    "doi": "10.1101/2024.02.09.579590",
+    "url": "https://doi.org/10.1101/2024.02.09.579590",
+    "source": "bioRxiv",
+    "type": "preprint"
+  },
+  {
+    "title": "Do eyes say it all? Assessing the utility of physiological signals for predicting systemic cognitive states",
+    "authors": [
+      "Aygun, A.",
+      "Nguyen, T. D.",
+      "Scheutz, M."
+    ],
+    "journal": "bioRxiv",
+    "publication_date": "2026-01-29",
+    "abstract": "Robust estimation of systemic human cognitive states is critical for many applications, from simply detecting inefficiencies in human task performance to adapting the behaviors of artificial agents to improve team performance in mixed-initiative human-machine teams. Here we use comprehensive analyses of a multi-modal dataset from a multi-tasking driving experiment to provide systematic evidence that percentage change in pupil size (PCPS) in human eye gaze is the most reliable biomarker for assessing three human cognitive states relevant to task performance: workload, sense of urgency, and mind wandering. Specifically, we performed comprehensive statistical tests that establish the superior performance of PCPS compared other physiological signals like electroencephalogram (EEG), functional near-infrared spectroscopy (fNIRS), respiration, arterial blood pressure (ABP), and skin conductance. Based on the eye gaze data, we also characterized the relation between workload and sense of urgency, observing that consecutive occurrences of higher sense of urgency tended to increase overall workload. We also trained five state-of-the-art machine learning models on the data to determine their potential for predicting the three systemic cognitive states across subjects, showing that four of them had similar highest accuracy in cognitive state classification based on PCPS (with one, random forest, showing inferior performance). In combination with the statistical analyses, the comparative modeling results demonstrate that PCPS, in contrast to prior findings in the literature, represents the optimal method for estimating the three performance-relevant cognitive states.",
+    "doi": "10.1101/2024.02.29.582708",
+    "url": "https://doi.org/10.1101/2024.02.29.582708",
+    "source": "bioRxiv",
+    "type": "preprint"
+  },
+  {
+    "title": "RosetteArray Platform for Quantitative High-Throughput Screening of Human Neurodevelopmental Risk",
+    "authors": [
+      "Lundin, B. F.",
+      "Knight, G. T.",
+      "Fedorchak, N. J.",
+      "Krucki, K.",
+      "Seipel, F. R.",
+      "Iyer, N.",
+      "Maher, J. E.",
+      "Izban, N. R.",
+      "Roberts, A.",
+      "Cicero, M. R.",
+      "Robinson, J. F.",
+      "Iskandar, B. J.",
+      "Willett, R.",
+      "Ashton, R. S."
+    ],
+    "journal": "bioRxiv",
+    "publication_date": "2026-02-18",
+    "abstract": "Neural organoids have revolutionized how human neurodevelopmental disorders (NDDs) are studied. Yet, their utility for screening chemical hazards and prospective therapeutics for NDDs is limited by a lack of morphological reproducibility and cost-effective scalability. Here, we describe the RosetteArray platform, which can be used as an off-the-shelf, 96-well plate assay that standardizes incipient forebrain and spinal cord organoid morphogenesis as adherent, micropatterned, 3-D, singularly polarized neural rosette tissues ([~]200 and [~]800 per well, respectively). Seeded directly from cryopreserved human pluripotent stem cells, RosetteArrays are cultured over 6-8 days and fixed, immunostained and imaged in situ to enable artificial intelligence-based quantitative analysis. By screening the inception of [~]75,000 neural organoids throughout this manuscript, we provide proof-of-concept demonstrations of the platforms utility for detecting developmental neurotoxicity hazard and screening genetic and environmental factors known to cause clinical Neural Tube Defect risk. Given the documented perturbation of rosette morphogenesis in neural organoid models of several NDDs, the RosetteArray platform could enable quantitative high-throughput screening (qHTS) of human neurodevelopmental risk across regulatory and precision medicine applications.",
+    "doi": "10.1101/2024.04.01.587605",
+    "url": "https://doi.org/10.1101/2024.04.01.587605",
+    "source": "bioRxiv",
+    "type": "preprint"
+  },
+  {
+    "title": "Exploring the limits of pre-trained embeddings in machine-guided protein design: a case study on predicting AAV vector viability",
+    "authors": [
+      "Ana F. Rodrigues",
+      "Lucas Ferraz",
+      "Laura Balbi",
+      "Pedro Giesteira Cotovio",
+      "Catia Pesquita"
+    ],
+    "journal": "arXiv",
+    "publication_date": "2026-02-16",
+    "abstract": "Effective representations of protein sequences are widely recognized as a cornerstone of machine learning-based protein design. Yet, protein bioengineering poses unique challenges for sequence representation, as experimental datasets typically feature few mutations, which are either sparsely distributed across the entire sequence or densely concentrated within localized regions. This limits the ability of sequence-level representations to extract functionally meaningful signals. In addition, comprehensive comparative studies remain scarce, despite their crucial role in clarifying which representations best encode relevant information and ultimately support superior predictive performance. In this study, we systematically evaluate multiple ProtBERT and ESM2 embedding variants as sequence representations, using the adeno-associated virus capsid as a case study and prototypical example of bioengineering, where functional optimization is targeted through highly localized sequence variation within an otherwise large protein. Our results reveal that, prior to fine-tuning, amino acid-level embeddings outperform sequence-level representations in supervised predictive tasks, whereas the latter tend to be more effective in unsupervised settings. However, optimal performance is only achieved when embeddings are fine-tuned with task-specific labels, with sequence-level representations providing the best performance. Moreover, our findings indicate that the extent of sequence variation required to produce notable shifts in sequence representations exceeds what is typically explored in bioengineering studies, showing the need for fine-tuning in datasets characterized by sparse or highly localized mutations.",
+    "doi": "",
+    "url": "https://arxiv.org/abs/2602.14828v1",
+    "source": "arXiv",
+    "type": "preprint"
+  }
+]

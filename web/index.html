@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI & Protein Design Literature Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+    <script>
+        // Fallback if Chart.js fails to load
+        if (typeof Chart === 'undefined') {
+            console.warn('Chart.js failed to load, charts will be disabled');
+            window.Chart = function() { return { destroy: function() {} }; };
+        }
+    </script>
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <h1>AI & Protein Design Literature Dashboard</h1>
+            <p>Latest research in artificial intelligence-driven protein design</p>
+        </div>
+    </header>
+
+    <!-- Navigation -->
+    <nav class="fixed-nav">
+        <div class="container">
+            <div class="nav-content">
+                <div class="nav-tabs">
+                    <button class="active" data-tab="dashboard">Dashboard</button>
+                    <button data-tab="literature">Literature List</button>
+                    <button data-tab="categories">Categories</button>
+                    <button data-tab="timeline">Timeline</button>
+                </div>
+                <div class="nav-actions">
+                    <div class="search-box">
+                        <input type="text" id="search-input" placeholder="Search papers...">
+                        <button id="search-btn">Search</button>
+                    </div>
+                    <div class="update-info">
+                        <span>Last updated: <span id="last-updated">Loading...</span></span>
+                        <button id="refresh-btn">Refresh</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main>
+        <div class="container">
+            <!-- Dashboard Tab -->
+            <div id="dashboard-tab" class="tab-content active">
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <h3>Total Papers</h3>
+                        <p id="total-papers">Loading...</p>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Average Score</h3>
+                        <p id="average-score">Loading...</p>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Top Category</h3>
+                        <p id="top-category">Loading...</p>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Latest Update</h3>
+                        <p id="latest-update">Loading...</p>
+                    </div>
+                </div>
+
+                <div class="charts-grid">
+                    <div class="chart-card">
+                        <h3>Category Distribution</h3>
+                        <canvas id="category-chart"></canvas>
+                    </div>
+                    <div class="chart-card">
+                        <h3>Publication Timeline</h3>
+                        <canvas id="timeline-chart"></canvas>
+                    </div>
+                </div>
+
+                <div class="top-papers">
+                    <h3>Highest Rated Papers</h3>
+                    <div id="top-papers-list">Loading...</div>
+                </div>
+            </div>
+
+            <!-- Literature List Tab -->
+            <div id="literature-tab" class="tab-content">
+                <div class="filters">
+                    <select id="category-filter">
+                        <option value="all">All Categories</option>
+                        <!-- Categories will be populated dynamically -->
+                    </select>
+                    <select id="time-filter">
+                        <option value="all">All Time</option>
+                        <option value="last-month">Last Month</option>
+                        <option value="last-3months">Last 3 Months</option>
+                        <option value="last-6months">Last 6 Months</option>
+                        <option value="last-year">Last Year</option>
+                    </select>
+                    <select id="source-filter">
+                        <option value="all">All Sources</option>
+                        <option value="PubMed">PubMed</option>
+                        <option value="bioRxiv">bioRxiv</option>
+                        <option value="arXiv">arXiv</option>
+                    </select>
+                </div>
+                <div id="literature-list">Loading...</div>
+                <div id="pagination">Loading...</div>
+            </div>
+
+            <!-- Categories Tab -->
+            <div id="categories-tab" class="tab-content">
+                <div id="categories-list">Loading...</div>
+            </div>
+
+            <!-- Timeline Tab -->
+            <div id="timeline-tab" class="tab-content">
+                <div class="timeline-filters">
+                    <select id="timeline-category-filter">
+                        <option value="all">All Categories</option>
+                        <!-- Categories will be populated dynamically -->
+                    </select>
+                    <input type="month" id="timeline-date-filter">
+                </div>
+                <div id="timeline-content">Loading...</div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 AI & Protein Design Literature Dashboard | Generated by Protein AI Literature Analysis Skill</p>
+        </div>
+    </footer>
+
+    <!-- Paper Detail Modal -->
+    <div id="paper-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div id="paper-detail">Loading...</div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
